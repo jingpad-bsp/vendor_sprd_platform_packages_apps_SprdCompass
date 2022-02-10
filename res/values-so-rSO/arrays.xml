@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"Dhulka"</item>
+<item>"Waraaqda kraft"</item>
+<item>"Alwaax"</item>
+<item>"Sawirka qaabaynta gudaha"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"Moodo"</item>
+<item>"Jiheeye"</item>
+<item>"Retro"</item>
+</string-array>
+</resources>

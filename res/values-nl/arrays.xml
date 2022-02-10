@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"Aarde"</item>
+<item>"Kraftpapier"</item>
+<item>"Hout"</item>
+<item>"Aangepaste achtergrond afbeelding"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"Mode"</item>
+<item>"Compas"</item>
+<item>"Retro"</item>
+</string-array>
+</resources>

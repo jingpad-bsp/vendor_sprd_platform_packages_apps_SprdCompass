@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"კომპასი"</string>
+<string name="action_settings">"პარამეტრები"</string>
+<string name="compass_activity_title">"კომპასი და ალტიმეტრი"</string>
+<string name="getting_location">"მდებარეობის მიღება..."</string>
+<string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="altitude_text">"სიმაღლე"</string>
+<string name="message_no_orientation_sensor">"მიმართულების სენსორი არ არის"</string>
+<string name="message_location_fail">"შეუძლებელია ინფორმაციის მიღება მდებაროების შესახებ"</string>
+<string name="altitude_unit">"საზომი"</string>
+<string name="direction_north">"ჩრდ"</string>
+<string name="direction_south">"სამხრ."</string>
+<string name="direction_east">"აღმ"</string>
+<string name="direction_west">"დას"</string>
+<string name="preference_background_title">"ფონური გამოსახულება"</string>
+<string name="preference_pointer_type_title">"კომპასის ტიპი"</string>
+<string name="preference_share_title">"გაზიარება"</string>
+<string name="preference_share_summary">"არსებული განედის და კომპასის სიდიდეების გაზიარება"</string>
+<string name="custom_background_summary">"ინდივიდუალური ფონური გამოსახულება"</string>
+<string name="set_background_ok">"ეკრანის ფონის შეცვლა განხორციელდა."</string>
+<string name="earth">"დედამიწა"</string>
+<string name="kraft">"კრაფტ ქაღალდი"</string>
+<string name="grain">"ტყე"</string>
+<string name="fashion">"მოდა"</string>
+<string name="sinan">"კომპასი"</string>
+<string name="restore_ancient">"რეტრო"</string>
+<string name="share_compass">"გაზიარება"</string>
+<string name="toast_compass_internal_error">"კომპასში მოხდა შიდა შეცდომა."</string>
+<string name="error_permissions">"აპს არ გააჩნია გაშვებისათვის აუცილებელი ნებართვები. გთხოვთ, შეამოწმოთ ნებართვების პარამეტრები."</string>
+<string name="dialog_dismiss">"იგნორირება"</string>
+<string name="failed_option">"არჩევანი არ განხორციელდა"</string>
+<string name="set_background_invalid_in_guestmode">"შეუძლებელია ინდივიდუალიზირებული ფონური გამოსახულების დაყენება მფლობელის რეჟიმის გარეშე!"</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ኮምፓስ"</string>
+<string name="action_settings">"መሳርሒ"</string>
+<string name="compass_activity_title">"ኮምፓስን ኣልቲሜትርን"</string>
+<string name="getting_location">"ቦታ ኣብ ምርካብ…"</string>
+<string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="altitude_text">"ብራኸ"</string>
+<string name="message_no_orientation_sensor">"መመልከቲ ኣንፈት የለን"</string>
+<string name="message_location_fail">"ናይ ቦታ ሓበሬታ ክረክብ ኣይኸኣለን"</string>
+<string name="altitude_unit">"ሚትር"</string>
+<string name="direction_north">"N"</string>
+<string name="direction_south">"S"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+<string name="preference_background_title">"ምስሊ ድሕሪ ባይታ"</string>
+<string name="preference_pointer_type_title">"ኮምፓስ ዓይነት"</string>
+<string name="preference_share_title">"ኣካፍል"</string>
+<string name="preference_share_summary">"እቲ ናይ ሕጂ ብራኸን ኮምፓስን ክብሪታት ናይ ሓባር ግበር"</string>
+<string name="custom_background_summary">"ከሰትም ድሕሪ ባይታ ምስሊ"</string>
+<string name="set_background_ok">"ዎልፔፐር ምልዋጥ ተሳኺዑ፡፡"</string>
+<string name="earth">"ምድሪ"</string>
+<string name="kraft">"ክራፍ ወረቐት"</string>
+<string name="grain">"ዕንጨይቲ"</string>
+<string name="fashion">"ፋሽን"</string>
+<string name="sinan">"ኮምፓስ"</string>
+<string name="restore_ancient">"ረትሮ"</string>
+<string name="share_compass">"ኣካፍል"</string>
+<string name="toast_compass_internal_error">"ውሽጣዊ ስሕተት ኣብ ኮምፓስ ኣጋጢሙ ኣሎ፡፡"</string>
+<string name="error_permissions">"እቲ ኣፕ ኣድላይይ ዝኮነ መእተዊ ፍቃድ የብሉን በይዘኦም ናይ ፍቃድ ኣቀማምጣ የዐርዩ"</string>
+<string name="dialog_dismiss">"ሕለፍ"</string>
+<string name="failed_option">"ተሰናኺሉ"</string>
+</resources>

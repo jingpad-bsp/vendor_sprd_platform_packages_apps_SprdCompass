@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Kompas"</string>
+     <string name="action_settings">"Nastavitve"</string>
+     <string name="compass_activity_title">"Kompas in višinomer"</string>
+     <string name="getting_location">"Pridobivanje lokacije..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"nadmorska višina"</string>
+     <string name="message_no_orientation_sensor">"Ni senzorja za smer"</string>
+     <string name="message_location_fail">"Informacij o lokaciji ni bilo možno pripdobiti"</string>
+     <string name="altitude_unit">"meter"</string>
+     <string name="preference_background_title">"Slika ozadja"</string>
+     <string name="preference_pointer_type_title">"Vrsta kompasa"</string>
+     <string name="preference_share_title">"Deli"</string>
+     <string name="preference_share_summary">"Deli trenutno geografsko širino in kompas"</string>
+     <string name="custom_background_summary">"Slika ozadja po meri"</string>
+     <string name="set_background_ok">"Zamenjava ozadja uspešna."</string>
+     <string name="earth">"Zemlja"</string>
+     <string name="kraft">"Kolaž papir"</string>
+     <string name="grain">"Les"</string>
+     <string name="fashion">"Moda"</string>
+     <string name="sinan">"Kompas"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Deli"</string>
+     <string name="toast_compass_internal_error">"V kompasu je prišlo do notranje napake."</string>
+     <string name="error_permissions">"Aplikacija nima nujnih dovoljenj, potrebnih za izvajanje. Preverite nastavitve dovoljenj."</string>
+     <string name="dialog_dismiss">"Opusti"</string>
+     <string name="failed_option">"Možnost ni uspela"</string>
+     <string name="set_background_invalid_in_guestmode">"Slike ozadja po meri ni možno določite brez načina lastnika!"</string>
+
+</resources>

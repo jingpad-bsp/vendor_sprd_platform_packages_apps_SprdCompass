@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ເຂັມທິດ"</string>
+<string name="action_settings">"ການ​ຕັ້ງ​ຄ່າ"</string>
+<string name="compass_activity_title">"ເຂັມທິດ ແລະ ເຂັມລະດັບຄວາມສູງ"</string>
+<string name="getting_location">"ຈັບຈຸດທີ່ຕັ້ງ"</string>
+<string name="location_north">"ເສັ້ນແວງເໜືອ <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_south">"ເສັ້ນແວງໃຕ້ <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_east">"ເສັ້ນແວງຕາເວັນອອກ <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_west">"ເສັ້ນແວງຕາເວັນຕົກ <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="altitude_text">"ລະດັບຄວາມສູງ"</string>
+<string name="message_no_orientation_sensor">"ບໍ່ມີເຊັນເຊີທິດທາງ"</string>
+<string name="message_location_fail">"ບໍ່ສາມາດຈັບຈຸດທີ່ຕັ້ງ"</string>
+<string name="altitude_unit">"ແມັດ"</string>
+<string name="direction_north">"ເໜືອ"</string>
+<string name="direction_south">"S"</string>
+<string name="direction_east">"​ອອກ"</string>
+<string name="direction_west">"ຕົກ"</string>
+<string name="preference_background_title">"ຮູບເບື້ອງຫຼັງ"</string>
+<string name="preference_pointer_type_title">"ປະເພດເຂັມທິດ"</string>
+<string name="preference_share_title">"ແບ່ງປັນ"</string>
+<string name="preference_share_summary">"ແບ່ງປັນຄ່າເສັ້ນແວງ ແລະ ເຂັມທິດຄະນະນີ້"</string>
+<string name="custom_background_summary">"ກໍານົດຮູບເບື້ອງຫຼັງ"</string>
+<string name="set_background_ok">"ການປ່ຽນຮູບວໍເປັບເປີສໍາເລັດ"</string>
+<string name="earth">"ໂລກ"</string>
+<string name="kraft">"ເຈັ້ຍໜັງງົວ"</string>
+<string name="grain">"ລາຍໄມ້"</string>
+<string name="fashion">"ເຟຊັນ"</string>
+<string name="sinan">"ເຂັມທິດ"</string>
+<string name="restore_ancient">"ຍ້ອນຍຸກ"</string>
+<string name="share_compass">"ແບ່ງປັນ"</string>
+<string name="toast_compass_internal_error">"ເກີດຂໍ້ຜິດພາດພາຍໃນເຂັມທິດ"</string>
+<string name="error_permissions">"ແອັບດັ່ງກ່າວບໍ່ໄດ້ຮັບການອະນຸຍາດທີ່ຈໍາເປັນໃນການດໍາເນີນການ. ກະລຸນາກວດສອບການຕັ້ງຄ່າການອະນຸຍາດຂອງທ່ານ."</string>
+<string name="dialog_dismiss">"ຍົກເລີກ"</string>
+<string name="failed_option">"ຕົວເລືອກບໍ່ສໍາເລັດ"</string>
+<string name="set_background_invalid_in_guestmode">"ບໍ່ສາມາດ\u2019 ກໍານົດພາບພື້ນຫຼັງເອງໂດຍບໍ່ມີໂໝດເຈົ້າຂອງ!"</string>
+</resources>

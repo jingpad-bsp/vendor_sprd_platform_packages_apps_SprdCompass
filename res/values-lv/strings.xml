@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"Ziemeļi"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"Austrumi"</string>
+<string name="direction_west">"Rietumi"</string>
+    <string name="app_name">"Kompass"</string>
+     <string name="action_settings">"Iestatījumi"</string>
+     <string name="compass_activity_title">"Kompass un Altimetrs"</string>
+     <string name="getting_location">"Iegūst atrašanās vietu..."</string>
+     <string name="location_north">"Ziemeļu Platums <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"Dienvidu platums <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"Austrumu Platums <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"Rietumu Platums <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"augstums"</string>
+     <string name="message_no_orientation_sensor">"Nav virziena sensors"</string>
+     <string name="message_location_fail">"Nevar iegūt atrašanās vietas informāciju"</string>
+     <string name="altitude_unit">"metrs"</string>
+     <string name="preference_background_title">"Fona attēls"</string>
+     <string name="preference_pointer_type_title">"Kompasa tips"</string>
+     <string name="preference_share_title">"Kopīgot"</string>
+     <string name="preference_share_summary">"Kopīgot esošās platuma un kompasa vērtības"</string>
+     <string name="custom_background_summary">"Pielāgots fona attēls"</string>
+     <string name="set_background_ok">"Darbvirsmas fona aizstāšana izdevusies."</string>
+     <string name="earth">"Zeme"</string>
+     <string name="kraft">"Kraftpapīrs"</string>
+     <string name="grain">"Koks"</string>
+     <string name="fashion">"Mode"</string>
+     <string name="sinan">"Kompass"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Kopīgot"</string>
+     <string name="toast_compass_internal_error">"Notikusi iekšēja kļūda Kompasā."</string>
+     <string name="error_permissions">"Lietotnei nav būtisku atļauju, kas nepieciešamas, lai tā darbotos. Lūdzu, pārbaudiet atļauju iestatījumus."</string>
+     <string name="dialog_dismiss">"Noraidīt"</string>
+     <string name="failed_option">"Opcija nav izdevusies"</string>
+     <string name="set_background_invalid_in_guestmode">"Nevar uzstādīt pielāgotu fona attēlu ārpus īpašnieka režīma!"</string>
+
+</resources>

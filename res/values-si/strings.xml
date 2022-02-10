@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"මාලිමාව"</string>
+<string name="action_settings">"සැකසීම්"</string>
+<string name="compass_activity_title">"මාලිමාව සහ ඇල්ටිමීටරය"</string>
+<string name="getting_location">"ස්ථානය ලබා ගනිමින්..."</string>
+<string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="altitude_text">"ඉරියව්ව"</string>
+<string name="message_no_orientation_sensor">"දිශා සංවේදක නැත"</string>
+<string name="message_location_fail">"ස්ථාන තොරතුරු ලබා ගැනීමට නොහැකිය"</string>
+<string name="altitude_unit">"මීටරය"</string>
+<string name="direction_north">"N"</string>
+<string name="direction_south">"S"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+<string name="preference_background_title">"පසුබිම් රූපය"</string>
+<string name="preference_pointer_type_title">"මාලිමා වර්ගය"</string>
+<string name="preference_share_title">"බෙදා ගන්න"</string>
+<string name="preference_share_summary">"වත්මන් අක්ෂාංශ සහ මාලිමා අගයන් බෙදා ගන්න "</string>
+<string name="custom_background_summary">"අභිමත පසුබිම් රූපය"</string>
+<string name="set_background_ok">"බිතුපත ප්‍රතිස්ථාපනය සාර්ථකයි."</string>
+<string name="earth">"පෘථිවිය"</string>
+<string name="kraft">"ක්‍රාෆ්ට් කඩදාසි"</string>
+<string name="grain">"දැව"</string>
+<string name="fashion">"විලාසිතාව"</string>
+<string name="sinan">"මාලිමාව"</string>
+<string name="restore_ancient">"පස්සට"</string>
+<string name="share_compass">"බෙදා ගන්න"</string>
+<string name="toast_compass_internal_error">"මාලිමාවේ අභ්‍යන්තර දෝෂයක් සිදු විය."</string>
+<string name="error_permissions">"යෙදුමෙහි ධාවනය වීමට අවශ්‍ය වැදගත් අවසර නොමැත. කරුණාකර ඔබේ අවසර සැකසුම් පරීක්ෂා කරන්න."</string>
+<string name="dialog_dismiss">"අවලංගු කරන්න"</string>
+<string name="failed_option">"විකල්පය අසාර්ථක විය"</string>
+<string name="set_background_invalid_in_guestmode">"Can\u2019t අයිතිකරු මාදිලිය රහිතව සාමාන්‍ය පසුබිම් රූපයක් සැකසිය නොහැක!"</string>
+</resources>

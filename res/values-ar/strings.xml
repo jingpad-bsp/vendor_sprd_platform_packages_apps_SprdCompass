@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"ثانية"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">W</string>
+    <string name="app_name">"بوصلة"</string>
+     <string name="action_settings">"الإعدادات"</string>
+     <string name="compass_activity_title">"البوصلة ومقياس الارتفاع"</string>
+     <string name="getting_location">"الحصول على الموقع..."</string>
+     <string name="location_north">"الإحداثيات الشمالية <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"الإحداثيات الجنوبية <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"الإحداثيات الشرقية <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"الإحداثيات الغربية <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"الارتفاع"</string>
+     <string name="message_no_orientation_sensor">"لا يوجد استشعار للاتجاه"</string>
+     <string name="message_location_fail">"لا يمكن الحصول على معلومات الموقع"</string>
+     <string name="altitude_unit">"متر"</string>
+     <string name="preference_background_title">"صورة الخلفية"</string>
+     <string name="preference_pointer_type_title">"نوع البوصلة"</string>
+     <string name="preference_share_title">"مشاركة"</string>
+     <string name="preference_share_summary">"مشاركة خط العرض وقيم البوصلة الحالية"</string>
+     <string name="custom_background_summary">"صورة خلفية مخصصة"</string>
+     <string name="set_background_ok">"نجح استبدال الخلفية."</string>
+     <string name="earth">"أرض"</string>
+     <string name="kraft">"ورق مقوّى"</string>
+     <string name="grain">"خشب"</string>
+     <string name="fashion">"الأناقة"</string>
+     <string name="sinan">"بوصلة"</string>
+     <string name="restore_ancient">"خلفي"</string>
+     <string name="share_compass">"مشاركة"</string>
+     <string name="toast_compass_internal_error">"حدث خطأ داخلي في البوصلة."</string>
+     <string name="error_permissions">"لا يحتاج التطبيق إلى أذونات خطيرة لتشغيله، يرجى التحقق من إعدادات الأذونات."</string>
+     <string name="dialog_dismiss">"إزالة"</string>
+     <string name="failed_option">"فشل الخيار"</string>
+     <string name="set_background_invalid_in_guestmode">"لا يمكن تعيين صورة خلفية مخصصة دون وضعية المالك!"</string>
+
+</resources>

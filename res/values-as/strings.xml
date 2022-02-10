@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"এন"</string>
+<string name="direction_south">"এস্‍"</string>
+<string name="direction_east">"ই"</string>
+<string name="direction_west">"ডব্লিউ"</string>
+    <string name="app_name">"কমপাচ"</string>
+     <string name="action_settings">"ছেটিংছ"</string>
+     <string name="compass_activity_title">"কমপাচ আৰু উচ্চমাপক যন্ত্ৰ"</string>
+     <string name="getting_location">"স্থান পোৱা গৈছে…"</string>
+     <string name="location_north">"এনএল<xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"এচএল<xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"ইএল<xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"ডব্লুএল<xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"উচ্চতা"</string>
+     <string name="message_no_orientation_sensor">"দিক চেঞ্চৰ নাই"</string>
+     <string name="message_location_fail">"অৱস্থানৰ তথ্য প্ৰাপ্তিত অক্ষম"</string>
+     <string name="altitude_unit">"মিটাৰ"</string>
+     <string name="preference_background_title">"বেকগ্ৰাউণ্ড চিত্ৰ"</string>
+     <string name="preference_pointer_type_title">"কমপাচ টাইপ"</string>
+     <string name="preference_share_title">"বিনিময়"</string>
+     <string name="preference_share_summary">"বৰ্তমানৰ অক্ষাংশ আৰু কমপাচৰ মান শেয়াৰ কৰক"</string>
+     <string name="custom_background_summary">"কাষ্টম বেকগ্ৰাউণ্ড ইমেজ"</string>
+     <string name="set_background_ok">"ওৱালপেপাৰ সফলতাৰে প্ৰতিস্থাপন হৈছে।"</string>
+     <string name="earth">"আৰ্থ"</string>
+     <string name="kraft">"ক্ৰেফট পেপাৰ"</string>
+     <string name="grain">"উড"</string>
+     <string name="fashion">"ফেচন"</string>
+     <string name="sinan">"কমপাচ"</string>
+     <string name="restore_ancient">"ৰেট্ৰ"</string>
+     <string name="share_compass">"বিনিময়"</string>
+     <string name="toast_compass_internal_error">"কমপাচত এটা অভ্যন্তৰীণ ত্ৰুটি হৈছে।"</string>
+     <string name="error_permissions">"এপ্পটোৰ চলাবলৈ আৱশ্যকীয় জটিল অনুমতি নাই। অনুগ্ৰহ কৰি আপোনাৰ অনুমতি ছেটিংছ পৰীক্ষা কৰক।"</string>
+     <string name="dialog_dismiss">"নাকচ কৰক"</string>
+     <string name="failed_option">"বিকল্প ব্যৰ্থ হৈছে"</string>
+     <string name="set_background_invalid_in_guestmode">"ওনাৰ ম’ড অবিহনে আপুনি  কাষ্টম বেকগ্ৰাউণ্ড চিত্ৰ চেট কৰিব নোৱাৰে!"</string>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ཕྱོགས་སྟོན་འཁོར་ལོ།"</string>
+<string name="action_settings">སྒྲིག་འགོད།</string>
+<string name="compass_activity_title">"ཕྱོགས་སྟོན་འཁོར་ལོ་དང་མཐོ་ཚད་རྩི་ཆས།"</string>
+<string name="getting_location">"གནས་སའི་ཆ་འཕྲིན་ལེན་བཞིན་འདུག…"</string>
+<string name="location_north">"བྱང་འཕྲེད <xliff:g id="location">%1$s</xliff:g> "</string>
+<string name="location_south">"ལྷོ་འཕྲེད <xliff:g id="location">%1$s</xliff:g> "</string>
+<string name="location_east">"ཤར་གཞུང <xliff:g id="location">%1$s</xliff:g> "</string>
+<string name="location_west">"ནུབ་གཞུང  <xliff:g id="location">%1$s</xliff:g> "</string>
+<string name="altitude_text">"མཚོ་འཕགས།"</string>
+<string name="message_no_orientation_sensor">"ཕྱོགས་མེད་ཚོ་འདྲེན་ཆས།"</string>
+<string name="message_location_fail">"གནས་སའི་ཆ་འཕྲིན་ལེན་མི་ཐུབ།"</string>
+<string name="altitude_unit">"སྨི།"</string>
+<string name="direction_north">ཟླ་བ་བཅུ་གཅིག</string>
+<string name="direction_south">ཟླ་བ་དགུ་བ།</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"ནུབ།"</string>
+<string name="preference_background_title">"རྒྱབ་ལྗོངས་རི་མོ།"</string>
+<string name="preference_pointer_type_title">"ཕྱོགས་སྟོན་རིགས།"</string>
+<string name="preference_share_title">མཉམ་སྤྱོད།</string>
+<string name="preference_share_summary">"ད་སྐབས་ཀྱི་འཕྲེད་གཞུང་ཚད་དང་ཕྱོགས་སྟོན་གྲངས་ཐང་མཉམ་རོལ་བྱེད།"</string>
+<string name="custom_background_summary">"རང་འཇོག་རྒྱབ་ལྗོངས།"</string>
+<string name="set_background_ok">"རྩིག་ཤོག་བརྗེ་སྒྱུར་བྱེད་ཐུབ་སོང་།"</string>
+<string name="earth">"སའི་གོ་ལ།"</string>
+<string name="kraft">"ཤོག་གྱོང་།"</string>
+<string name="grain">"ཤིང་རིས།"</string>
+<string name="fashion">"དུས་རྒྱུག་ཆེ།"</string>
+<string name="sinan">"ཕྱོགས་སྟོན་འཁོར་ལོ།"</string>
+<string name="restore_ancient">"གནའ་ཉམས།"</string>
+<string name="share_compass">མཉམ་སྤྱོད།</string>
+<string name="toast_compass_internal_error">"ཕྱོགས་སྟོན་ནང་རོལ་དུ་ནོར་འཛོལ་བྱུང་།"</string>
+<string name="error_permissions">"ཉེར་སྤྱོད་འདིར་འཁོར་སྐྱོད་བྱེད་པར་ངེས་པར་མཁོ་བའི་དབང་ཚད་མི་འདུག ཁྱེད་ཀྱི་དབང་ཚད་སྒྲིག་འགོད་ལ་ལྟ་རྟོག་བྱེད་རོགས།"</string>
+<string name="dialog_dismiss">"སྐྱུར་བ།"</string>
+<string name="failed_option">སྒྲིག་འགོད་བྱེད་མ་ཐུབ།</string>
+<string name="set_background_invalid_in_guestmode">"བདག་པོ་མ་ཡིན་པའི་རྣམ་པའི་འོག་ཏུ་རང་འཇོག་རྒྱབ་ལྗོངས་པར་རིས་སྒྲིག་འགོད་བྱེད་མི་ཐུབ།"</string>
+</resources>

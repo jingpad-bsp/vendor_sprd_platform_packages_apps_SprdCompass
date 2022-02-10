@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"Zeme"</item>
+<item>"Kraftpapīrs"</item>
+<item>"Koks"</item>
+<item>"Pielāgots fona attēls"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"Mode"</item>
+<item>"Kompass"</item>
+<item>"Retro"</item>
+</string-array>
+</resources>

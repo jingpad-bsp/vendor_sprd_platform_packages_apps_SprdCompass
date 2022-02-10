@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"O"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Compas"</string>
+     <string name="action_settings">"Instellingen"</string>
+     <string name="compass_activity_title">"Compas en Hoogtemeter"</string>
+     <string name="getting_location">"Locatie verkrijgen..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"ZL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"OL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"hoogte"</string>
+     <string name="message_no_orientation_sensor">"Geen directie sensor"</string>
+     <string name="message_location_fail">"locatie informatie verkrijgen niet mogelijk"</string>
+     <string name="altitude_unit">"meter"</string>
+     <string name="preference_background_title">"Achtergrond afbeelding"</string>
+     <string name="preference_pointer_type_title">"Compas type"</string>
+     <string name="preference_share_title">"Delen"</string>
+     <string name="preference_share_summary">"Deel de huidige hoogte en compas waarden"</string>
+     <string name="custom_background_summary">"Aangepaste achtergrond afbeelding"</string>
+     <string name="set_background_ok">"Achtergrond vervangen gelukt."</string>
+     <string name="earth">"Aarde"</string>
+     <string name="kraft">"Kraftpapier"</string>
+     <string name="grain">"Hout"</string>
+     <string name="fashion">"Mode"</string>
+     <string name="sinan">"Compas"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Delen"</string>
+     <string name="toast_compass_internal_error">"Interne fout in het Compas."</string>
+     <string name="error_permissions">"De app beschikt niet over bepaalde essentiële rechten. Controleer uw instellingen voor rechten."</string>
+     <string name="dialog_dismiss">"Negeren"</string>
+     <string name="failed_option">"Optie gefaald"</string>
+     <string name="set_background_invalid_in_guestmode">"Kan geen aangepaste achtergrond afbeelding instellen zonder eigenaar modus!"</string>
+
+</resources>

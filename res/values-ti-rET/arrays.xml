@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"ምድሪ"</item>
+<item>"ክራፍ ወረቐት"</item>
+<item>"ዕንጨይቲ"</item>
+<item>"ከሰትም ድሕሪ ባይታ ምስሊ"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"ፋሽን"</item>
+<item>"ኮምፓስ"</item>
+<item>"ረትሮ"</item>
+</string-array>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"ಉ"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"ಪೂ"</string>
+<string name="direction_west">"ಪ"</string>
+    <string name="app_name">"ಕಂಪಾಸ್"</string>
+     <string name="action_settings">"ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+     <string name="compass_activity_title">"ಕಂಪಾಸ್ ಮತ್ತು ಅಲ್ಟಿಮೀಟರ್"</string>
+     <string name="getting_location">"ಸ್ಥಳವನ್ನು ಪಡೆಯಲಾಗುತ್ತಿದೆ..."</string>
+     <string name="location_north">"ಎನ್‌ಎಲ್ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"ಎಸ್‌ಎಲ್ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"ಇಎಲ್ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"ಡಬ್ಲ್ಯೂಎಲ್ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"ಎತ್ತರ"</string>
+     <string name="message_no_orientation_sensor">"ಯಾವುದೇ ದಿಕ್ಕು ಸೆನ್ಸರ್ ಇಲ್ಲ"</string>
+     <string name="message_location_fail">"ಸ್ಥಳದ ಮಾಹಿತಿ ಪಡೆಯಲು ಆಗುತ್ತಿಲ್ಲ"</string>
+     <string name="altitude_unit">"ಮೀಟರ್"</string>
+     <string name="preference_background_title">"ಹಿನ್ನಲೆ ಚಿತ್ರ"</string>
+     <string name="preference_pointer_type_title">"ಕಂಪಾಸ್ ಮಾದರಿ"</string>
+     <string name="preference_share_title">"ಹಂಚಿಕೊಳ್ಳಿ"</string>
+     <string name="preference_share_summary">"ಪ್ರಸ್ತುತ ಅಕ್ಷಾಂಶ ಮತ್ತು ಕಂಪಾಸ್ ಮೌಲ್ಯವನ್ನು ಶೇರ್ ಮಾಡಿ"</string>
+     <string name="custom_background_summary">"ಕಸ್ಟಮ್ ಹಿನ್ನಲೆ ಚಿತ್ರ"</string>
+     <string name="set_background_ok">"ವಾಲ್‌ಪೇಪರ್ ಬದಲಿಸುವಿಕೆ ಯಶಸ್ವಿಯಾಗಿದೆ."</string>
+     <string name="earth">"ಭೂಮಿ"</string>
+     <string name="kraft">"ಕ್ರಾಫ್ಟ್ ಪೇಪರ್"</string>
+     <string name="grain">"ಮರ"</string>
+     <string name="fashion">"ಫ್ಯಾಶನ್"</string>
+     <string name="sinan">"ಕಂಪಾಸ್"</string>
+     <string name="restore_ancient">"ರೆಟ್ರೊ"</string>
+     <string name="share_compass">"ಹಂಚಿಕೊಳ್ಳಿ"</string>
+     <string name="toast_compass_internal_error">"ಕಂಪಾಸ್‌ನಲ್ಲಿ ಒಂದು ಆಂತರಿಕ ದೋಷ ಉಂಟಾಗಿದೆ."</string>
+     <string name="error_permissions">"ಅಪ್ಲಿಕೇಶನ್ ರನ್ ಮಾಡಲು ಅಗತ್ಯವಿರುವ ನಿರ್ಣಾಯಕ ಅನುಮತಿಗಳನ್ನು ಹೊಂದಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಅನುಮತಿಗಳ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."</string>
+     <string name="dialog_dismiss">"ತೆಗೆದು ಹಾಕಿ"</string>
+     <string name="failed_option">"ಆಯ್ಕೆ ವಿಫಲವಾಗಿದೆ"</string>
+     <string name="set_background_invalid_in_guestmode">"ಓನರ್ ಮೋಡ್ ಇಲ್ಲದೆ ಕಸ್ಟಮ್ ಹಿನ್ನಲೆ ಚಿತ್ರ ಸೆಟ್ ಮಾಡಲು ಆಗುವು ದಿಲ್ಲ!"</string>
+
+</resources>

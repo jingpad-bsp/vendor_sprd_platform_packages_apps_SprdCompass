@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"Ø"</string>
+<string name="direction_west">"V"</string>
+    <string name="app_name">"Kompas"</string>
+     <string name="action_settings">Indstillinger</string>
+     <string name="compass_activity_title">"Kompas og højdemåler"</string>
+     <string name="getting_location">"Får lokation..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"højde"</string>
+     <string name="message_no_orientation_sensor">"Ingen retnings-sensor"</string>
+     <string name="message_location_fail">"Ude af stand til at opnå beliggenhedsinformation"</string>
+     <string name="altitude_unit">"meter"</string>
+     <string name="preference_background_title">"Baggrundsbillede"</string>
+     <string name="preference_pointer_type_title">"Kompastype"</string>
+     <string name="preference_share_title">Del</string>
+     <string name="preference_share_summary">"Del de nuværende bredde- og kompasværdier"</string>
+     <string name="custom_background_summary">"Tilpasset baggrundsbillede"</string>
+     <string name="set_background_ok">"Lad baggrundsudskiftning lykkes."</string>
+     <string name="earth">"Jord"</string>
+     <string name="kraft">"Kraft papir"</string>
+     <string name="grain">"Træ"</string>
+     <string name="fashion">"Mode"</string>
+     <string name="sinan">"Kompas"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">Del</string>
+     <string name="toast_compass_internal_error">"Der opstod en intern fejl i kompasset."</string>
+     <string name="error_permissions">"Appen mangler kritiske tilladelser for at kunne køre. Kontrollér dine indstillinger for tilladelser."</string>
+     <string name="dialog_dismiss">"Annuller"</string>
+     <string name="failed_option">"Valg mislykkedes"</string>
+     <string name="set_background_invalid_in_guestmode">"Kan indstille tilpasset baggrundsbillede uden ejermodus!"</string>
+
+</resources>

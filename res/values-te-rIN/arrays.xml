@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"భూమి"</item>
+<item>"క్రాఫ్ట్ పేపర్"</item>
+<item>"చెక్క"</item>
+<item>"కస్టమ్ నేపధ్య చిత్రం"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"ఫ్యాషన్"</item>
+<item>"కంపాస్"</item>
+<item>"రిట్రో"</item>
+</string-array>
+</resources>

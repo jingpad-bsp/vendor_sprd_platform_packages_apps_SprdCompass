@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"መሬት"</item>
+<item>"ማሸጊያ ወረቀት"</item>
+<item>"እንጨት"</item>
+<item>"የተሻሻለ የመደብ ስእል"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"ፋሽን"</item>
+<item>"ኮምፓስ"</item>
+<item>"ማመላከት"</item>
+</string-array>
+</resources>

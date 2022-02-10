@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Boussole"</string>
+     <string name="action_settings">"Paramètres"</string>
+     <string name="compass_activity_title">"Boussole et Altimètre"</string>
+     <string name="getting_location">"Obtenir l\'emplacement ..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"altitude"</string>
+     <string name="message_no_orientation_sensor">"Aucun capteur de direction"</string>
+     <string name="message_location_fail">"Impossible d\'obtenir des informations de localisation"</string>
+     <string name="altitude_unit">"mètre"</string>
+     <string name="preference_background_title">"Image de fond"</string>
+     <string name="preference_pointer_type_title">"Type de Boussole"</string>
+     <string name="preference_share_title">"Partager"</string>
+     <string name="preference_share_summary">"Partager les valeurs de latitude et boussole actuelles"</string>
+     <string name="custom_background_summary">"Image de fond personnalisée"</string>
+     <string name="set_background_ok">"Remplacement de papier peint réussi."</string>
+     <string name="earth">"Terre"</string>
+     <string name="kraft">"Papier kraft"</string>
+     <string name="grain">"Bois"</string>
+     <string name="fashion">"Mode"</string>
+     <string name="sinan">"Boussole"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Partager"</string>
+     <string name="toast_compass_internal_error">"Une erreur interne est survenue dans Boussole."</string>
+     <string name="error_permissions">"L\'application ne dispose pas de certaines autorisations nécessaires à son exécution. Veuillez vérifier vos paramètres relatifs aux autorisations."</string>
+     <string name="dialog_dismiss">"Désactiver"</string>
+     <string name="failed_option">"Echec de l\'option"</string>
+     <string name="set_background_invalid_in_guestmode">"Ne peut pas définir l\'image de fond personnalisée sans mode propriétaire!"</string>
+
+</resources>

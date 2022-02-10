@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"V"</string>
+    <string name="app_name">"Busolă"</string>
+     <string name="action_settings">"Setări"</string>
+     <string name="compass_activity_title">"Busolă și altimetru"</string>
+     <string name="getting_location">"Se obține locația..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"VL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"altitudine"</string>
+     <string name="message_no_orientation_sensor">"Niciun senzor de direcție"</string>
+     <string name="message_location_fail">"Nu se pot obține informații despre locație"</string>
+     <string name="altitude_unit">"metru"</string>
+     <string name="preference_background_title">"Imagine de fundal"</string>
+     <string name="preference_pointer_type_title">"Tip busolă"</string>
+     <string name="preference_share_title">"Distrib."</string>
+     <string name="preference_share_summary">"Partajați valorile curente ale latitudinii și busolei"</string>
+     <string name="custom_background_summary">"Imagine de fundal personalizată"</string>
+     <string name="set_background_ok">"Imagine de fundal înlocuită."</string>
+     <string name="earth">"Pământ"</string>
+     <string name="kraft">"Hârtie rezistentă"</string>
+     <string name="grain">"Lemn"</string>
+     <string name="fashion">"Modă"</string>
+     <string name="sinan">"Busolă"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Distrib."</string>
+     <string name="toast_compass_internal_error">"În busolă a avut loc o eroare internă."</string>
+     <string name="error_permissions">"Aplicația nu are permisiunile esențiale necesare pentru a funcționa. Verificați setările pentru permisiuni."</string>
+     <string name="dialog_dismiss">"Renunţaţi"</string>
+     <string name="failed_option">"Opţiune nereuşită"</string>
+     <string name="set_background_invalid_in_guestmode">"Imaginea de fundal personalizată se poate seta doar în modul proprietar!"</string>
+
+</resources>

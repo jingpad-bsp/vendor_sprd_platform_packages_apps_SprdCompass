@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"Ν"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"Ε"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Πυξίδα"</string>
+     <string name="action_settings">"Ρυθμίσεις"</string>
+     <string name="compass_activity_title">"Πυξίδα και αλτίμετρο"</string>
+     <string name="getting_location">"Πραγματοποιείται λήψη τοποθεσίας..."</string>
+     <string name="location_north">"Βόρειο γεωγραφικό πλάτος <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"Νότιο γεωγραφικό πλάτος <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"Ανατολικό γεωγραφικό πλάτος <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"Δυτικό γεωγραφικό πλάτος <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"υψόμετρο"</string>
+     <string name="message_no_orientation_sensor">"Κανένας αισθητήρας κατεύθυνσης"</string>
+     <string name="message_location_fail">"Αδύνατη η απόκτηση πληροφοριών τοποθεσίας"</string>
+     <string name="altitude_unit">"μέτρο"</string>
+     <string name="preference_background_title">"Εικόνα φόντου"</string>
+     <string name="preference_pointer_type_title">"Είδος πυξίδας"</string>
+     <string name="preference_share_title">"Κοινή χρήση"</string>
+     <string name="preference_share_summary">"Μοιραστείτε τις τρέχουσες τιμές γεωγραφικού πλάτους και πυξίδας"</string>
+     <string name="custom_background_summary">"Προσαρμοσμένη εικόνα φόντου"</string>
+     <string name="set_background_ok">"Επιτυχής αντικατάσταση ταπετσαρίας."</string>
+     <string name="earth">"Γη"</string>
+     <string name="kraft">"Χαρτί περιτυλίγματος"</string>
+     <string name="grain">"Ξύλο"</string>
+     <string name="fashion">"Μόδα"</string>
+     <string name="sinan">"Πυξίδα"</string>
+     <string name="restore_ancient">"Ρετρό"</string>
+     <string name="share_compass">"Κοινή χρήση"</string>
+     <string name="toast_compass_internal_error">"Προέκυψε κάποιο εσωτερικό σφάλμα στην Πυξίδα."</string>
+     <string name="error_permissions">"Η εφαρμογή δεν διαθέτει κρίσιμα δικαιώματα που απαιτούνται για την εκτέλεσή της. Ελέγξτε τις ρυθμίσεις δικαιωμάτων."</string>
+     <string name="dialog_dismiss">"Απόρριψη"</string>
+     <string name="failed_option">"Επιλογή απέτυχε"</string>
+     <string name="set_background_invalid_in_guestmode">"Αδύνατη η ρύθμιση της προσαρμοσμένης εικόνας φόντου χωρίς την κατάσταση ιδιοκτήτη!"</string>
+
+</resources>

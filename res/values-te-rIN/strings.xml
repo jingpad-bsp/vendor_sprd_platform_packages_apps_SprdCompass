@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"కంపాస్"</string>
+     <string name="action_settings">"సెట్టింగులు"</string>
+     <string name="compass_activity_title">"కంపాస్ మరియు ఆల్టిమీటర్"</string>
+     <string name="getting_location">"స్థానాన్ని పొందుతోంది..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"ఎత్తు"</string>
+     <string name="message_no_orientation_sensor">"దిశ సెన్సర్ లేదు"</string>
+     <string name="message_location_fail">"స్థానం సమాచారాన్ని పొందలేకపోతోంది"</string>
+     <string name="altitude_unit">"మీటర్"</string>
+     <string name="preference_background_title">"నేపధ్య చిత్రం"</string>
+     <string name="preference_pointer_type_title">"కంపాస్ రకం"</string>
+     <string name="preference_share_title">పంచు</string>
+     <string name="preference_share_summary">"ప్రస్తుత ఎత్తు మరియు కంపాస్ విలువలు షేర్ చేసుకోండి"</string>
+     <string name="custom_background_summary">"కస్టమ్ నేపధ్య చిత్రం"</string>
+     <string name="set_background_ok">"వాల్ పేపర్ రిప్లేస్మెంట్ సఫలం."</string>
+     <string name="earth">"భూమి"</string>
+     <string name="kraft">"క్రాఫ్ట్ పేపర్"</string>
+     <string name="grain">"చెక్క"</string>
+     <string name="fashion">"ఫ్యాషన్"</string>
+     <string name="sinan">"కంపాస్"</string>
+     <string name="restore_ancient">"రిట్రో"</string>
+     <string name="share_compass">పంచు</string>
+     <string name="toast_compass_internal_error">"కంపాస్ లో ఒక అంతర్గత లోపం ఏర్పడింది."</string>
+     <string name="error_permissions">"అనువర్తనం అమలు కావడానికి అవసరమయ్యే క్లిష్టమైన అనుమతులను కలిగి లేదు. దయచేసి మీ అనుమతుల సెట్టింగ్‌లను తనిఖీ చేయండి."</string>
+     <string name="dialog_dismiss">"డిస్మిస్"</string>
+     <string name="failed_option">"ఆప్షన్ ఫెయిల్ అయింది"</string>
+     <string name="set_background_invalid_in_guestmode">"యజమాని మోడ్ లేకుండా కస్టమ్ నేపధ్యాన్ని సెట్ చేయలేదు!"</string>
+
+</resources>

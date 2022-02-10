@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"شمال"</string>
+<string name="direction_south">"ثانیه"</string>
+<string name="direction_east">"شرق"</string>
+<string name="direction_west">"غرب"</string>
+    <string name="app_name">"قطب‌نما"</string>
+     <string name="action_settings">"تنظیمات"</string>
+     <string name="compass_activity_title">"قطب‌نما و ارتفاع‌سنج"</string>
+     <string name="getting_location">"دریافت مکان..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"ارتفاع"</string>
+     <string name="message_no_orientation_sensor">"حسگر مسیر وجود ندارد"</string>
+     <string name="message_location_fail">"دسترسی به اطلاعات مکان ممکن نیست"</string>
+     <string name="altitude_unit">"متر"</string>
+     <string name="preference_background_title">"تصویر پس‌زمینه"</string>
+     <string name="preference_pointer_type_title">"نوع قطب‌نما"</string>
+     <string name="preference_share_title">اشتراک گذاری</string>
+     <string name="preference_share_summary">"اشتراک‌گذاری عرض جغرافیایی و مقادیر قطب‌نما"</string>
+     <string name="custom_background_summary">"تصویر پس‌زمینه دلخواه"</string>
+     <string name="set_background_ok">"تغییر تصویر زمینه موفق بود."</string>
+     <string name="earth">"زمین"</string>
+     <string name="kraft">"کاغذ گرافت"</string>
+     <string name="grain">"چوب"</string>
+     <string name="fashion">"مد"</string>
+     <string name="sinan">"قطب‌نما"</string>
+     <string name="restore_ancient">"عقب"</string>
+     <string name="share_compass">اشتراک گذاری</string>
+     <string name="toast_compass_internal_error">"خطای داخلی در قطب‌نما روی داد."</string>
+     <string name="error_permissions">"برنامه مجوزهای مهم مورد نیاز برای اجرا شدن را ندارد. لطفاً تنظیمات مجوزهایتان را بررسی کنید."</string>
+     <string name="dialog_dismiss">"رد کردن"</string>
+     <string name="failed_option">"انتخاب ناموفق بود"</string>
+     <string name="set_background_invalid_in_guestmode">"نمی‌توان غیر از حالت صاحب تلفن، تصویر پس‌زمینه را تغییر داد!"</string>
+
+</resources>

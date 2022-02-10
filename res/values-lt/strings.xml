@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"Šiaurė"</string>
+<string name="direction_south">"sek."</string>
+<string name="direction_east">"Rytai"</string>
+<string name="direction_west">"Vakarai"</string>
+    <string name="app_name">"Kompasas"</string>
+     <string name="action_settings">"Nustatymai"</string>
+     <string name="compass_activity_title">"Kompasas ir Aukštimatis"</string>
+     <string name="getting_location">"Gaunama lokacija..."</string>
+     <string name="location_north">"ŠL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"PL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"RL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"VL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"aukštis"</string>
+     <string name="message_no_orientation_sensor">"Nėra krypties daviklio"</string>
+     <string name="message_location_fail">"Nepavyko gautis vietos informacijos"</string>
+     <string name="altitude_unit">"metrai"</string>
+     <string name="preference_background_title">"Fono paveiksliukas"</string>
+     <string name="preference_pointer_type_title">"Kompaso tipas"</string>
+     <string name="preference_share_title">"Bendrinti"</string>
+     <string name="preference_share_summary">"Dalintis dabartine platuma ir kompaso reikšmėmis"</string>
+     <string name="custom_background_summary">"Kitas fono paveiksliukas"</string>
+     <string name="set_background_ok">"Fono paveiksl. pakeistas sėkmingai."</string>
+     <string name="earth">"Žemė"</string>
+     <string name="kraft">"Kraft popierius"</string>
+     <string name="grain">"Medis"</string>
+     <string name="fashion">"Mada"</string>
+     <string name="sinan">"Kompasas"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Bendrinti"</string>
+     <string name="toast_compass_internal_error">"Vidinė Kompaso klaida."</string>
+     <string name="error_permissions">"Programa neturi kritinių leidimų, kurių reikia paleidžiant. Patikrinkite leidimų nustatymus."</string>
+     <string name="dialog_dismiss">"Atsisakyti"</string>
+     <string name="failed_option">"Pasirinktis nepavyko"</string>
+     <string name="set_background_invalid_in_guestmode">"Fono paveikslėlio negalima keisti be savininko būsenos!"</string>
+
+</resources>

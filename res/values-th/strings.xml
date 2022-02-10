@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"เข็มทิศ"</string>
+     <string name="action_settings">ตั้งค่า</string>
+     <string name="compass_activity_title">"เข็มทิศและเครื่องวัดระยะสูง"</string>
+     <string name="getting_location">"ขอตำแหน่ง ... "</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"ความสูง"</string>
+     <string name="message_no_orientation_sensor">"ไม่มีเซนเซอร์ตรวจจับทิศทาง"</string>
+     <string name="message_location_fail">"ไม่สามารถจะได้รับข้อมูลสถานที่ตั้ง"</string>
+     <string name="altitude_unit">"เมตร"</string>
+     <string name="preference_background_title">"รูปพื้นหลัง"</string>
+     <string name="preference_pointer_type_title">"รูปแบบเข็มทิศ"</string>
+     <string name="preference_share_title">"แบ่งปัน"</string>
+     <string name="preference_share_summary">"แชร์ละติจูดและเข็มทิศค่าปัจจุบัน"</string>
+     <string name="custom_background_summary">"ภาพพื้นหลังที่กำหนดเอง"</string>
+     <string name="set_background_ok">"การเปลี่ยนวอลล์เปเปอร์ประสบความสำเร็จ."</string>
+     <string name="earth">"โลก"</string>
+     <string name="kraft">"กระดาษคราฟท์"</string>
+     <string name="grain">"ไม่"</string>
+     <string name="fashion">"แฟชั่น"</string>
+     <string name="sinan">"เข็มทิศ"</string>
+     <string name="restore_ancient">"ย้อนยุค"</string>
+     <string name="share_compass">"แบ่งปัน"</string>
+     <string name="toast_compass_internal_error">"ข้อผิดพลาดภายในที่เกิดขึ้นในเข็มทิศ."</string>
+     <string name="error_permissions">"แอปไม่มีสิทธิ์ที่จำเป็นในการเรียกใช้ โปรดตรวจสอบการตั้งค่าสิทธิ์ของคุณ"</string>
+     <string name="dialog_dismiss">"เลิกแสดง"</string>
+     <string name="failed_option">"ทางเลือกที่ิผิดพลาด"</string>
+     <string name="set_background_invalid_in_guestmode">"สามารถ  ตั้งค่าภาพพื้นหลังที่กำหนดโดยไม่ต้องใช้โหมดเจ้าของ!"</string>
+
+</resources>

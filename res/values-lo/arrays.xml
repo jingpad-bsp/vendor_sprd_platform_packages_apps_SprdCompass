@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"ໂລກ"</item>
+<item>"ເຈັ້ຍໜັງງົວ"</item>
+<item>"ລາຍໄມ້"</item>
+<item>"ກໍານົດຮູບເບື້ອງຫຼັງ"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"ເຟຊັນ"</item>
+<item>"ເຂັມທິດ"</item>
+<item>"ຍ້ອນຍຸກ"</item>
+</string-array>
+</resources>

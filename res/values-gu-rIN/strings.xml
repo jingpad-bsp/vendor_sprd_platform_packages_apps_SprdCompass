@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"એન"</string>
+<string name="direction_south">"એસ"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"હોકાયંત્ર"</string>
+     <string name="action_settings">"ગોઠવણી"</string>
+     <string name="compass_activity_title">"હોકાયંત્ર અને ઉચ્ચતામાપક"</string>
+     <string name="getting_location">"સ્થળ પ્રાપ્ત કરવું..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"ઊંચાઈ"</string>
+     <string name="message_no_orientation_sensor">"ડિરેક્ટર સેન્સર નથી"</string>
+     <string name="message_location_fail">"સ્થળ માહિતી મેળવી શકાતી નથી"</string>
+     <string name="altitude_unit">"મીટર"</string>
+     <string name="preference_background_title">"પુષ્ટભૂમિની ઈમેજ"</string>
+     <string name="preference_pointer_type_title">"હોકાયંત્રનો પ્રકાર"</string>
+     <string name="preference_share_title">"આપલે કરો"</string>
+     <string name="preference_share_summary">"વર્તમાન અક્ષાંશ અને હોકાયંત્રના મૂલ્યોની માહિતીની આપલે"</string>
+     <string name="custom_background_summary">"કસ્ટમ બેકગ્રાઉન્ડ ઈમેજ"</string>
+     <string name="set_background_ok">"વોલપેપર સફળતાપૂર્વક બદલેલ છે."</string>
+     <string name="earth">"પૃથ્વી"</string>
+     <string name="kraft">"ક્રાફ્ટ પેપર"</string>
+     <string name="grain">"વૂડ"</string>
+     <string name="fashion">"ફેશન"</string>
+     <string name="sinan">"હોકાયંત્ર"</string>
+     <string name="restore_ancient">"રેટ્રો"</string>
+     <string name="share_compass">"આપલે કરો"</string>
+     <string name="toast_compass_internal_error">"હોકાયંત્રમાં આંતરિક ખામી સર્જાયેલ છે."</string>
+     <string name="error_permissions">"એપ્લિકેશન પાસે શરૂ થવા માટેની મહત્વપૂર્ણ પરવાનગીઓ નથી. કૃપા કરીને તમારી પરવાનગીઓ સેટિંગ્સ તપાસો."</string>
+     <string name="dialog_dismiss">બરખાસ્ત કરવું</string>
+     <string name="failed_option">"ઓપ્શન્સ નિષ્ફળ "</string>
+     <string name="set_background_invalid_in_guestmode">"ઓનર મોડ વગર પુષ્ટભૂમિની ઈમેજ સેટ કરી શકે નહીં છે !"</string>
+
+</resources>

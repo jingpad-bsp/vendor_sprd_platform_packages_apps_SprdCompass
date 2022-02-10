@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"ផែនដី"</item>
+<item>"ក្រដាសពណ៌ស្បែកគោ"</item>
+<item>"ឈើ"</item>
+<item>"រួបភាពផ្ទៃខាងក្រោយកំណត់ដោយខ្លួនឯង"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"ទាន់សម័យ"</item>
+<item>"ត្រីវិស័យ"</item>
+<item>"បែបបុរាណ"</item>
+</string-array>
+</resources>

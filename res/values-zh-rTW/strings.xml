@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">指南針和高度計</string>
+    <string name="action_settings">設定</string>
+    <string name="compass_activity_title">指南針和高度計</string>
+    <string name="compass_degree_symbol">&#176;</string>
+    <string name="cannot_get_location">--</string>
+    <string name="getting_location">獲取位置資訊...</string>
+
+    <string name="location_north">北緯 <xliff:g id="location">%1$s</xliff:g></string>
+    <string name="location_south">南緯 <xliff:g id="location">%1$s</xliff:g></string>
+    <string name="location_east">東經 <xliff:g id="location">%1$s</xliff:g></string>
+    <string name="location_west">西經 <xliff:g id="location">%1$s</xliff:g></string>
+    <string name="altitude_text">海拔</string>
+    <string name="message_no_orientation_sensor">無方向感測器</string>
+    <string name="message_location_fail">無法獲取到位置資訊</string>
+    <!--
+    <string name="latitude_longitude_first_unit">&#176;</string>
+    <string name="latitude_longitude_second_unit">&#039;</string>
+    <string name="latitude_longitude_third_unit">&#034;</string>
+    -->
+    <string name="altitude_unit">米</string>
+    <string name="direction_north">北</string>
+    <string name="direction_south">南</string>
+    <string name="direction_east">東</string>
+    <string name="direction_west">西</string>
+    <string name="preference_background_title">背景圖</string>
+    <string name="preference_pointer_type_title">指南針類型</string>
+    <string name="preference_share_title">分享</string>
+    <string name="preference_share_summary">分享當前的經緯度和指南針數值</string>
+    <string name="custom_background_summary">自訂背景圖</string>
+    <string name="set_background_ok">桌布更換成功</string>
+    <string name="earth">地球</string>
+    <string name="kraft">牛皮紙</string>
+    <string name="grain">木紋</string>
+    <string name="fashion">新潮</string>
+    <string name="sinan">司南</string>
+    <string name="restore_ancient">復古</string>
+
+    <string name="share_compass">分享</string>
+
+    <!-- SPRD: add for 512028 @{ -->
+    <string name="toast_compass_internal_error">"指南針發生內部錯誤！"</string>
+    <string name="error_permissions">"這個應用程式缺乏必要的關鍵權限，因此無法執行。請檢查您的權限設定。"</string>
+    <string name="dialog_dismiss">"關閉"</string>
+    <!-- @} -->
+    <string name="failed_option">操作失敗</string>
+
+    <string name="set_background_invalid_in_guestmode">非機主模式下，無法設定自訂背景圖片!</string>
+</resources>

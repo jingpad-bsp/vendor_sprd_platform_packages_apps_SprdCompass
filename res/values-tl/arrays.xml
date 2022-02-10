@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"Mundo"</item>
+<item>"Krapt na papel"</item>
+<item>"Kahoy"</item>
+<item>"Sadyain ang likuran na imahe"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"Moda"</item>
+<item>"Kompas"</item>
+<item>"Retro"</item>
+</string-array>
+</resources>

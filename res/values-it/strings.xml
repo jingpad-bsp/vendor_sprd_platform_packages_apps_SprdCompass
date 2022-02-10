@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Compasso"</string>
+     <string name="action_settings">"Impostazioni"</string>
+     <string name="compass_activity_title">"Compasso e Altimetro"</string>
+     <string name="getting_location">"Ricezione località…"</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"altitudine"</string>
+     <string name="message_no_orientation_sensor">"Nessuna direzione sensore"</string>
+     <string name="message_location_fail">"Impossibile ottenere informazioni località"</string>
+     <string name="altitude_unit">"metro"</string>
+     <string name="preference_background_title">"immagine background"</string>
+     <string name="preference_pointer_type_title">"tipo compasso"</string>
+     <string name="preference_share_title">"Condividi"</string>
+     <string name="preference_share_summary">"Condividere la latitudine corrente e i valori compasso"</string>
+     <string name="custom_background_summary">"immagine background personalizzata"</string>
+     <string name="set_background_ok">"sostituzione Sfondo riuscita."</string>
+     <string name="earth">"Terra"</string>
+     <string name="kraft">"carta kraft"</string>
+     <string name="grain">"Legno"</string>
+     <string name="fashion">"Fashion"</string>
+     <string name="sinan">"Compasso"</string>
+     <string name="restore_ancient">"Retrò"</string>
+     <string name="share_compass">"Condividi"</string>
+     <string name="toast_compass_internal_error">"un errore interno in Compasso"</string>
+     <string name="error_permissions">"L\'app non dispone delle autorizzazioni necessarie all\'esecuzione. Controlla le impostazioni delle autorizzazioni."</string>
+     <string name="dialog_dismiss">"Chiudi"</string>
+     <string name="failed_option">Opzione fallita</string>
+     <string name="set_background_invalid_in_guestmode">"Impossibile impostare l\'immagine di fondo personalizzata senza modalità possessore!"</string>
+
+</resources>

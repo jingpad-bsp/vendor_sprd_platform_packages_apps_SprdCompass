@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"আৰ্থ"</item>
+<item>"ক্ৰেফট পেপাৰ"</item>
+<item>"উড"</item>
+<item>"কাষ্টম বেকগ্ৰাউণ্ড ইমেজ"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"ফেচন"</item>
+<item>"কমপাচ"</item>
+<item>"ৰেট্ৰ"</item>
+</string-array>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"Север"</string>
+<string name="direction_south">"с"</string>
+<string name="direction_east">"Изток"</string>
+<string name="direction_west">"Запад"</string>
+    <string name="app_name">"Компас"</string>
+     <string name="action_settings">"Настройки"</string>
+     <string name="compass_activity_title">"Компас и алтиметър"</string>
+     <string name="getting_location">"Получаване на местоположение..."</string>
+     <string name="location_north">"СШ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"ЮШ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"ИД <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"ЗД <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"Височина"</string>
+     <string name="message_no_orientation_sensor">"Няма сензор за ориентация"</string>
+     <string name="message_location_fail">"Не може да се получи информация за местоположение"</string>
+     <string name="altitude_unit">"метър"</string>
+     <string name="preference_background_title">"Изображение на заден фон"</string>
+     <string name="preference_pointer_type_title">"Тип компас"</string>
+     <string name="preference_share_title">"Споделяне"</string>
+     <string name="preference_share_summary">"Споделете настоящите ширина и стойности на компаса"</string>
+     <string name="custom_background_summary">"Фоново изображение по избор"</string>
+     <string name="set_background_ok">"Успешна смяна на тапет."</string>
+     <string name="earth">"Земя"</string>
+     <string name="kraft">"Крафт хартия"</string>
+     <string name="grain">"Дърво"</string>
+     <string name="fashion">"Мода"</string>
+     <string name="sinan">"Компас"</string>
+     <string name="restore_ancient">"Ретро"</string>
+     <string name="share_compass">"Споделяне"</string>
+     <string name="toast_compass_internal_error">"Възникна вътрешна грешка в Компас."</string>
+     <string name="error_permissions">"Приложението няма критично важни разрешения, необходими, за да работи. Моля, проверете настройките си за разрешенията."</string>
+     <string name="dialog_dismiss">"Отхвърляне"</string>
+     <string name="failed_option">Операцията се провали</string>
+     <string name="set_background_invalid_in_guestmode">"Не може да се задава фоново изображение по избор без режим Собственик!"</string>
+
+</resources>

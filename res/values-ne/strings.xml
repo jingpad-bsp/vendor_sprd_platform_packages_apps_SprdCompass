@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"कम्पास"</string>
+<string name="action_settings">"सेटिङ्हरू"</string>
+<string name="compass_activity_title">"कम्पास र अल्टिमिटर"</string>
+<string name="getting_location">"स्थान प्राप्त गर्दै..."</string>
+<string name="location_north">"उ <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_south">"द <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_east">"पू <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_west">"प <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="altitude_text">"उचाइ"</string>
+<string name="message_no_orientation_sensor">"दिशा सेन्सर छैन"</string>
+<string name="message_location_fail">"स्थान सम्बन्धी जानकारी हासिल गर्न सकिएन"</string>
+<string name="altitude_unit">"मिटर"</string>
+<string name="direction_north">"उ"</string>
+<string name="direction_south">"S"</string>
+<string name="direction_east">"पू"</string>
+<string name="direction_west">"प"</string>
+<string name="preference_background_title">"पृष्ठभूमिको छवि"</string>
+<string name="preference_pointer_type_title">"कम्पासको प्रकार"</string>
+<string name="preference_share_title">"साझेदारी गर्नुहोस्"</string>
+<string name="preference_share_summary">"हालको देशान्तर र कम्पासको मान साझा गर्नुहोस्"</string>
+<string name="custom_background_summary">"कस्टम पृष्टभूमि छवि"</string>
+<string name="set_background_ok">"वालपेपर सफलतापूर्वक परिवर्तन गरियो।"</string>
+<string name="earth">"पृथ्वी"</string>
+<string name="kraft">"शैलीपूर्ण कागज"</string>
+<string name="grain">"काठ"</string>
+<string name="fashion">"फेशन"</string>
+<string name="sinan">"कम्पास"</string>
+<string name="restore_ancient">"रेट्रो"</string>
+<string name="share_compass">"साझेदारी गर्नुहोस्"</string>
+<string name="toast_compass_internal_error">"कम्पासमा एउटा आन्तरिका त्रुटि भयो।"</string>
+<string name="error_permissions">"अनुप्रयोग चल्न आवश्यक अनुमतिहरु छैनन्। कृपया तपाईको अनुमति सेटिङहरु जाँच्नुहोस्।"</string>
+<string name="dialog_dismiss">"खारेज गर्नुहोस्"</string>
+<string name="failed_option">"विकल्प असफल भयो"</string>
+<string name="set_background_invalid_in_guestmode">"स्वामित्व मोड बिना अनुकूलन पृष्ठभूमि छवि अनुकूलन सेट गर्न सकिंदैन!"</string>
+</resources>

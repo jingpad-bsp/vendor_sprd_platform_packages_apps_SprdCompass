@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"കോമ്പസ്"</string>
+     <string name="action_settings">"ക്രമീകരങ്ങള്‍"</string>
+     <string name="compass_activity_title">"കോമ്പസ്സും ആൾട്ടിമീറ്ററും "</string>
+     <string name="getting_location">"ലൊക്കേഷൻ അറിയുക..."</string>
+     <string name="location_north">"എൻ എൽ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"എസ് എൽ  <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"ഈ എൽ  <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"ഡബ്ലിയു എൽ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"ഉയരം"</string>
+     <string name="message_no_orientation_sensor">"ദിശ സെൻസറുകൾ ഇല്ല"</string>
+     <string name="message_location_fail">"സ്ഥല വിവരങ്ങൾ ലഭ്യമാക്കാൻ കഴിയുന്നില്ല"</string>
+     <string name="altitude_unit">"മീറ്റർ "</string>
+     <string name="preference_background_title">"പശ്ചാത്തല ഇമേജ് "</string>
+     <string name="preference_pointer_type_title">"കോമ്പസ് രീതി "</string>
+     <string name="preference_share_title">"പങ്കു വയ്‌ക്കുക"</string>
+     <string name="preference_share_summary">"നിലവിലെ അക്ഷാംശവും കോമ്പസ് മൂല്യങ്ങളും പങ്കിടൂ "</string>
+     <string name="custom_background_summary">"കസ്റ്റം പശ്ചാത്തല ഇമേജ് "</string>
+     <string name="set_background_ok">"വാൾപേപ്പർ മാറ്റുന്നത് സഫലമാകുക."</string>
+     <string name="earth">"ഭൂമി"</string>
+     <string name="kraft">"ക്രാഫ്റ്റ് പേപ്പർ"</string>
+     <string name="grain">"വുഡ് "</string>
+     <string name="fashion">"ഫാഷൻ"</string>
+     <string name="sinan">"കോമ്പസ്"</string>
+     <string name="restore_ancient">"പിന്നില്‍"</string>
+     <string name="share_compass">"പങ്കു വയ്‌ക്കുക"</string>
+     <string name="toast_compass_internal_error">"കോമ്പസ്സിൽ  ഇൻറ്റർനൽ തകരാർ സംഭവിച്ചിരിക്കുന്നു ."</string>
+     <string name="error_permissions">"പ്രവർത്തിക്കുന്നതിന് ആവശ്യമായ സുപ്രധാന അനുമതികൾ ആപ്പിനില്ല. നിങ്ങളുടെ അനുമതി ക്രമീകരണം പരിശോധിക്കുക."</string>
+     <string name="dialog_dismiss">"ബഹിഷ്കരിക്കുക"</string>
+     <string name="failed_option">"ഓപ്ഷന്‍ പരാജയപ്പെട്ടു"</string>
+     <string name="set_background_invalid_in_guestmode">"ഉടമസ്ഥ മോഡ് ഇല്ലാതെ  കസ്റ്റം പശ്ചാത്തല ഇമേജ് ഉപയോഗിക്കാൻ സാധിക്കും !"</string>
+
+</resources>

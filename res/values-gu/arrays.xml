@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"પૃથ્વી"</item>
+<item>"ક્રાફ્ટ પેપર"</item>
+<item>"વૂડ"</item>
+<item>"કસ્ટમ બેકગ્રાઉન્ડ ઈમેજ"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"ફેશન"</item>
+<item>"હોકાયંત્ર"</item>
+<item>"રેટ્રો"</item>
+</string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"Dünya"</item>
+<item>"Kraft kağıt "</item>
+<item>"Ahşap "</item>
+<item>"Özel arka plan görüntüsü"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"Moda"</item>
+<item>"Pusula"</item>
+<item>"Retro"</item>
+</string-array>
+</resources>

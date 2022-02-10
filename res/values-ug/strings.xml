@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"كومپاس"</string>
+<string name="action_settings">تەڭشەك</string>
+<string name="compass_activity_title">"كومپاس بىلەن ئىگىزلىك ئۆلچىگۈچ"</string>
+<string name="getting_location">"ئورۇن ئۇچۇرىغا ئېرىشىش"</string>
+<string name="location_north">"<xliff:g id="location">%1$s</xliff:g>شىمالى كەڭلىك"</string>
+<string name="location_south">"<xliff:g id="location">%1$s</xliff:g>جەنۇبى كەڭلىك"</string>
+<string name="location_east">"<xliff:g id="location">%1$s</xliff:g>شەرقى ئۇزۇنلۇق"</string>
+<string name="location_west">"<xliff:g id="location">%1$s</xliff:g>غەربى ئۇزۇنلۇق"</string>
+<string name="altitude_text">"دېڭىز يۈزىدىن ئېگىزلىكى"</string>
+<string name="message_no_orientation_sensor">"يۆنىلىشسىزھېس تارقاتقۇچ"</string>
+<string name="message_location_fail">"ئورۇن ئۇچۇرىغا ئېرىشەلمىدى"</string>
+<string name="altitude_unit">"مىتىر"</string>
+<string name="direction_north">"N"</string>
+<string name="direction_south">"S"</string>
+<string name="direction_east">"شەرق"</string>
+<string name="direction_west">"غەرب"</string>
+<string name="preference_background_title">"ئارقا كۆرۈنۈش رەسىمى"</string>
+<string name="preference_pointer_type_title">"كومپاس تۈرى"</string>
+<string name="preference_share_title">بەھرىمان بولۇش</string>
+<string name="preference_share_summary">"ھازىرقى ئۇزۇنلۇق كەڭلىكلىرىنى ۋە كومپاس قىممەتلىرىنى بەھىرلەش"</string>
+<string name="custom_background_summary">"ئۆزلۈك ئېنىقلىمىسى ئارقا كۆرۈنۈش رەسىمى "</string>
+<string name="set_background_ok">".تەگلك ئالماشتۇرۇش مۇۋەپىقىيەتلىك بولدى"</string>
+<string name="earth">"يەر شارى"</string>
+<string name="kraft">"كالا تېرىسى قەغىزى"</string>
+<string name="grain">"ياغاچ ھالقىسى"</string>
+<string name="fashion">"يېڭى ئېقىم"</string>
+<string name="sinan">"كومپاس"</string>
+<string name="restore_ancient">"قەدىمچە"</string>
+<string name="share_compass">بەھرىمان بولۇش</string>
+<string name="toast_compass_internal_error">".كومپاسنىڭ ئىچكى قىسمىدا خاتالىق كۆرۈلدى"</string>
+<string name="error_permissions">"بۇ ئەپنىڭ يۇرۈشىشى ئۈچۈن ھالقىلىق ھوقۇقلار كەمچىل. ھوقۇق تەڭشىكىڭىزنى تەكشۈرۈڭ"</string>
+<string name="dialog_dismiss">"تارقىلىش"</string>
+<string name="failed_option">"تاللاش مەغلۇپ بولدى"</string>
+<string name="set_background_invalid_in_guestmode">"!ئۆز ئىگە ھالىتىدىن باشقا ۋاقىتتا، ئۆزلۈك ئېنىقلىما تەگلىك رەسىمىنى تەڭشىگىلى بولمايدۇ"</string>
+</resources>

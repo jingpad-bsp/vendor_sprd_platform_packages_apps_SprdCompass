@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"כדור הארץ"</item>
+<item>"נייר יצירה"</item>
+<item>"עץ"</item>
+<item>"תמונת רקע מותאמת אישית"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"אופנה"</item>
+<item>"מצפן"</item>
+<item>"רטרו"</item>
+</string-array>
+</resources>

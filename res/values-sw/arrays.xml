@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"Dunia"</item>
+<item>"Karatasi ya Kraft"</item>
+<item>"Mbao"</item>
+<item>"Picha maalum ya msingi "</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"Mtindo"</item>
+<item>"Dira"</item>
+<item>"Retro"</item>
+</string-array>
+</resources>

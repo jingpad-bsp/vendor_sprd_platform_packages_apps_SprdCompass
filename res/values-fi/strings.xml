@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Kompassi"</string>
+     <string name="action_settings">"Asetukset"</string>
+     <string name="compass_activity_title">"Kompassi ja korkeusmittari"</string>
+     <string name="getting_location">"Haetaan sijaintia…"</string>
+     <string name="location_north">"Pohjoinen <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"Etelä <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"Itä <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"Länsi <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"korkeus"</string>
+     <string name="message_no_orientation_sensor">"Ei suuntasensoria"</string>
+     <string name="message_location_fail">"Sijaintitietoja ei saada"</string>
+     <string name="altitude_unit">"metri"</string>
+     <string name="preference_background_title">"Taustakuva"</string>
+     <string name="preference_pointer_type_title">"Kompassityyppi"</string>
+     <string name="preference_share_title">"Jaa"</string>
+     <string name="preference_share_summary">"Jaa nykyinen korkeus ja kompassiarvot"</string>
+     <string name="custom_background_summary">"Räätälöity taustakuva"</string>
+     <string name="set_background_ok">"Taustakuvan aihto onnistui."</string>
+     <string name="earth">"Maa"</string>
+     <string name="kraft">"Voimapaperi"</string>
+     <string name="grain">"Puu"</string>
+     <string name="fashion">"Muoti"</string>
+     <string name="sinan">"Kompassi"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Jaa"</string>
+     <string name="toast_compass_internal_error">"Sisäinen virhe kompassissa."</string>
+     <string name="error_permissions">"Sovelluksella ei ole sen suorittamiseen tarvittavia oikeuksia. Tarkista käyttöoikeusasetuksesi."</string>
+     <string name="dialog_dismiss">"Hylkää"</string>
+     <string name="failed_option">"Vaihtoehto ei onnistunut"</string>
+     <string name="set_background_invalid_in_guestmode">"Ei voi asettaa räätälöityä taustakuvaa ilman omistajatilaa!"</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"يەر شارى"</item>
+<item>"كالا تېرىسى قەغىزى"</item>
+<item>"ياغاچ ھالقىسى"</item>
+<item>"ئۆزلۈك ئېنىقلىمىسى ئارقا كۆرۈنۈش رەسىمى "</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"يېڭى ئېقىم"</item>
+<item>"كومپاس"</item>
+<item>"قەدىمچە"</item>
+</string-array>
+</resources>

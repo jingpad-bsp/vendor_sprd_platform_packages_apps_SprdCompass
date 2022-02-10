@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"Bắc"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"Đông"</string>
+<string name="direction_west">"Tây"</string>
+    <string name="app_name">"La bàn"</string>
+     <string name="action_settings">"Cài đặt"</string>
+     <string name="compass_activity_title">"La bàn và Cao độ kế"</string>
+     <string name="getting_location">"Đang lấy vị trí..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"độ cao"</string>
+     <string name="message_no_orientation_sensor">"Không có cảm biến hướng"</string>
+     <string name="message_location_fail">"Không thể nhận được thông tin vị trí"</string>
+     <string name="altitude_unit">"mét"</string>
+     <string name="preference_background_title">"Hình nền"</string>
+     <string name="preference_pointer_type_title">"Loại la bàn"</string>
+     <string name="preference_share_title">"Chia sẻ"</string>
+     <string name="preference_share_summary">"Chia sẻ giá trị vĩ độ và la bàn hiện tại"</string>
+     <string name="custom_background_summary">"Hình nền tùy chỉnh"</string>
+     <string name="set_background_ok">"Thay thế hình nền thành công."</string>
+     <string name="earth">"Đất"</string>
+     <string name="kraft">"Giấy Kraft"</string>
+     <string name="grain">"Gỗ"</string>
+     <string name="fashion">"Thời trang"</string>
+     <string name="sinan">"La bàn"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Chia sẻ"</string>
+     <string name="toast_compass_internal_error">"Có một lỗi bên trong xảy ra trong La bàn."</string>
+     <string name="error_permissions">"Ứng dụng không có quyền quan trọng cần thiết để chạy. Hãy kiểm tra cài đặt quyền của bạn."</string>
+     <string name="dialog_dismiss">"Loại bỏ"</string>
+     <string name="failed_option">"Tùy chọn thất bại"</string>
+     <string name="set_background_invalid_in_guestmode">"Không thể đặt hình nền tùy chỉnh mà không có chế độ chủ sở hữu!"</string>
+
+</resources>

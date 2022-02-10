@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"វិច្ឆិកា"</string>
+<string name="direction_south">"កញ្ញា"</string>
+<string name="direction_east">"កើត"</string>
+<string name="direction_west">"លិច"</string>
+
+    <string name="app_name">"ត្រីវិស័យ"</string>
+     <string name="action_settings">"ការកំណត់នានា"</string>
+     <string name="compass_activity_title">"ត្រីវិស័យនិងឧបករណ៍វាស់កម្ពស់"</string>
+     <string name="getting_location">"កំពុងទទួលយកព័ត៍មានទីតាំង..."</string>
+     <string name="location_north">"រយៈបណ្តោយខាងជើង <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"រយៈបណ្តោយខាងត្បូង <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"រយៈបណ្តោយខាងកើត <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"រយៈបណ្តោយខាងលិច <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"កម្ពស់"</string>
+     <string name="message_no_orientation_sensor">"មិនមានស៊ែនសឺរទិសដៅទេ"</string>
+     <string name="message_location_fail">"មិនអាចទទួលបានព័ត៍មានទីតាំងទេ"</string>
+     <string name="altitude_unit">"ម៉ែត្រ"</string>
+     <string name="preference_background_title">"រូបភាពផ្ទាំងខាងក្រោយ"</string>
+     <string name="preference_pointer_type_title">"ប្រភេទត្រីវិស័យ"</string>
+     <string name="preference_share_title">"ចែក​រំលែក​"</string>
+     <string name="preference_share_summary">"ចែករំលែករយៈទទឹង រយៈបណ្តោយនិងទិន្នន័យលេខនៃត្រីវិស័យ"</string>
+     <string name="custom_background_summary">"រួបភាពផ្ទៃខាងក្រោយកំណត់ដោយខ្លួនឯង"</string>
+     <string name="set_background_ok">"ការផ្លាស់ប្តូរក្រដាសជញ្ជាំងបានជោគជ័យ"</string>
+     <string name="earth">"ផែនដី"</string>
+     <string name="kraft">"ក្រដាសពណ៌ស្បែកគោ"</string>
+     <string name="grain">"ឈើ"</string>
+     <string name="fashion">"ទាន់សម័យ"</string>
+     <string name="sinan">"ត្រីវិស័យ"</string>
+     <string name="restore_ancient">"បែបបុរាណ"</string>
+     <string name="share_compass">"ចែក​រំលែក​"</string>
+     <string name="toast_compass_internal_error">"មានកំហុសខាងក្នុងកើតមាននៅក្នុងត្រីវិស័យ"</string>
+     <string name="error_permissions">"កម្មវិធីនេះមិនមានសិទ្ធិអនុញ្ញាតគ្រប់គ្រាន់ដើម្បីដំណើរការទេ។ សូមពិនិត្យការកំណត់សិទ្ធិអនុញ្ញាតរបស់អ្នក។"</string>
+     <string name="dialog_dismiss">"ចាកចេញ"</string>
+     <string name="failed_option">ការជ្រើសរើសបរាជ័យ</string>
+     <string name="set_background_invalid_in_guestmode">"មិនអាចកំណត់រូបភាពផ្ទាំងខាងក្រោយដោយខ្លួនឯងបានទេបើមិនមែនជាម៉ូនម្ចាស់ឧបករណ៍នោះ!"</string>
+</resources>

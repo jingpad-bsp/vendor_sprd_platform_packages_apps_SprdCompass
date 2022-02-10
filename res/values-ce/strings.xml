@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"S"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">W</string>
+    <string name="app_name">"Kompas"</string>
+     <string name="action_settings">Mga setting</string>
+     <string name="compass_activity_title">"kompas ug Altimetro"</string>
+     <string name="getting_location">"Nagkuha sa Lokasyon..."</string>
+     <string name="location_north">"NL <xliff:g id="lokasyon">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="lokasyon">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="lokasyon">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="lokasyon">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"gihabogon"</string>
+     <string name="message_no_orientation_sensor">"Walay sensor sa direksyon"</string>
+     <string name="message_location_fail">"Dili makakuha og impormasyon sa lokasyon"</string>
+     <string name="altitude_unit">"metro"</string>
+     <string name="preference_background_title">"Imahe sa bakgrawnd"</string>
+     <string name="preference_pointer_type_title">"Tipo sa kompas"</string>
+     <string name="preference_share_title">bahagi</string>
+     <string name="preference_share_summary">"Ipaambit ang kasamtangang gihabogon ug mga bili sa kompas"</string>
+     <string name="custom_background_summary">"Naandan nga imahe sa bakgrawnd"</string>
+     <string name="set_background_ok">"Pag-ilis sa wallpaper malampuson."</string>
+     <string name="earth">"Kalibutan"</string>
+     <string name="kraft">"Papel nga Kraft"</string>
+     <string name="grain">"Kahoy"</string>
+     <string name="fashion">"Moda"</string>
+     <string name="sinan">"Kompas"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">bahagi</string>
+     <string name="toast_compass_internal_error">"Pangsulod nga sayop nahitabo sa Kompas."</string>
+     <string name="error_permissions">"Ang app walay kritikal nga pagtugot nga gikinahanglan aron mogana. Palihug susiha ang imong mga seting sa pagtugot."</string>
+     <string name="dialog_dismiss">"Tiwalag"</string>
+     <string name="failed_option">"Napakyas ang kapilian"</string>
+     <string name="set_background_invalid_in_guestmode">"Dili maka-set og naandang imahe sa bakgrawnd kon walay modo sa tag-iya!"</string>
+
+</resources>

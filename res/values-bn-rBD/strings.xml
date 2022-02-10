@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"নবে"</string>
+<string name="direction_south">"সেপ্টে"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">ডাব্লু</string>
+    <string name="app_name">"পরিসর"</string>
+     <string name="action_settings">সেটিংস</string>
+     <string name="compass_activity_title">"পরিসর এবং অল্টিমিটার"</string>
+     <string name="getting_location">"অবস্থান জানছে..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"উচ্চতা"</string>
+     <string name="message_no_orientation_sensor">"কোনও দিকনির্দেশের সেন্সর নেই"</string>
+     <string name="message_location_fail">"অবস্থানের তথ্য পেতে অপারক"</string>
+     <string name="altitude_unit">"মিটার"</string>
+     <string name="preference_background_title">"ব্যাকগ্রাউন্ডের প্রতিকৃতি"</string>
+     <string name="preference_pointer_type_title">"কম্পাসের ধরণ"</string>
+     <string name="preference_share_title">ভাগ</string>
+     <string name="preference_share_summary">"বর্তমান অক্ষাংশ এবং কম্পাসের মানগুলি শেয়ার করুন"</string>
+     <string name="custom_background_summary">"ব্যাকগ্রাউন্ডের প্রতিকৃতি নিজের পছন্দমত করুন"</string>
+     <string name="set_background_ok">"ওয়ালপেপার প্রতিস্থাপন সফল হয়েছে।"</string>
+     <string name="earth">"পৃথিবী"</string>
+     <string name="kraft">"ক্র্যাফট কাগজ"</string>
+     <string name="grain">"কাঠ"</string>
+     <string name="fashion">"ফ্যাশন"</string>
+     <string name="sinan">"পরিসর"</string>
+     <string name="restore_ancient">"পুরাতন"</string>
+     <string name="share_compass">ভাগ</string>
+     <string name="toast_compass_internal_error">"কম্পাসে একটি অভ্যন্তরীন ত্রুটি ঘটেছে।"</string>
+     <string name="error_permissions">"অ্যাপ্লিকেশাটি চালানোর জন্য কোনো গুরুত্বপূর্ণ অনুমতির প্রয়োজন নেই৷ অনুগ্রহ করে আপনার অনুমতি সেটিংস পরীক্ষা করুন৷"</string>
+     <string name="dialog_dismiss">"বরখাস্ত করা"</string>
+     <string name="failed_option">"বিকল্প ব্যর্থ হয়েছে"</string>
+     <string name="set_background_invalid_in_guestmode">"স্বত্তাধিকারীর মোড ছাড়া পছন্দমত ব্যাকগ্রাউন্ডের প্রতিকৃতি সেট করতে পারে না!"</string>
+
+</resources>

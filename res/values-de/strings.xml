@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Kompass"</string>
+     <string name="action_settings">Einstellungen</string>
+     <string name="compass_activity_title">"Kompass und Höhenmesser"</string>
+     <string name="getting_location">"Erhalten der Position..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"Höhe"</string>
+     <string name="message_no_orientation_sensor">"Kein Richtungssensor"</string>
+     <string name="message_location_fail">"Positionsinformationen konnten nicht erhalten werden"</string>
+     <string name="altitude_unit">"Meter"</string>
+     <string name="preference_background_title">"Hintergrundbild"</string>
+     <string name="preference_pointer_type_title">"Kompassart"</string>
+     <string name="preference_share_title">"Teilen"</string>
+     <string name="preference_share_summary">"Die aktuellen Breitengrad- und Kompasswerte teilen"</string>
+     <string name="custom_background_summary">"Benutzerdefiniertes Hintergrundbild"</string>
+     <string name="set_background_ok">"Hintergrundbild erfolgreich ersetzt."</string>
+     <string name="earth">"Erde"</string>
+     <string name="kraft">"Packpapier"</string>
+     <string name="grain">"Holz"</string>
+     <string name="fashion">"Mode"</string>
+     <string name="sinan">"Kompass"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Teilen"</string>
+     <string name="toast_compass_internal_error">"Ein interner Fehler ist im Kompass aufgetreten."</string>
+     <string name="error_permissions">"Dieser App fehlen wichtige Berechtigungen, ohne die sie nicht ausgeführt werden kann. Bitte überprüfen Sie Ihre Einstellungen für Berechtigungen."</string>
+     <string name="dialog_dismiss">"Ausschalten"</string>
+     <string name="failed_option">"Option fehler"</string>
+     <string name="set_background_invalid_in_guestmode">"Ohne den Besitzermodus kann kein benutzerdefiniertes Hintergrundbild eingestellt werden!"</string>
+
+</resources>

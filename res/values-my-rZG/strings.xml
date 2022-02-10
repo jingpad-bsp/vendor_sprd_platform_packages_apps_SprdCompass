@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"ေျမာက္"</string>
+<string name="direction_south">စကၠန္ ့</string>
+<string name="direction_east">"ေရွ ့"</string>
+<string name="direction_west">"ေနာက္"</string>
+    <string name="app_name">"သံလိုက္အိမ္ေျမွာင္"</string>
+     <string name="action_settings">"ဆက္တင္မ်ား"</string>
+     <string name="compass_activity_title">"သံလိုက္အ္မ္ေျမာင္ နွင့္ အျမင့္ျပကိရိယာ"</string>
+     <string name="getting_location">"တည္ေနရာ ရယူေန..."</string>
+     <string name="location_north">"ေျမာက္ လတၱီတြဒ္  <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"ေတာင္ လတၱီတြဒ္ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"အေရွ ့ ေလာင္ဂ်ီတြဒ္ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"အေနာက္ ေလာင္ဂ်ီတြဒ္ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"ပင္လယ္ေရမ်က္နွာျပင္ အျမင့္"</string>
+     <string name="message_no_orientation_sensor">"အာရံုခံကိရိယာ လမ္းရာ မရွိ"</string>
+     <string name="message_location_fail">"တည္ေနရာ သတင္းအခ်က္ ရရန္ မေထာက္ပံ့"</string>
+     <string name="altitude_unit">"မီတာ"</string>
+     <string name="preference_background_title">"ေနာက္ခံ ရုပ္ပံု"</string>
+     <string name="preference_pointer_type_title">"သံလိုက္ အိမ္ေျမွာင္ ပံုစံ"</string>
+     <string name="preference_share_title">"ေဝမွ်ပါ"</string>
+     <string name="preference_share_summary">"လက္ရွိ လတၱီတြဒ္ နွင့္ သံလိုက္အိမ္ေျမွာင္ တန္ဘိုးမ်ားကို ရွယ္ယာလုပ္ပါ"</string>
+     <string name="custom_background_summary">"ေဖာက္သည္ ေနာက္ခံ ရုပ္ပံု"</string>
+     <string name="set_background_ok">"ပိုစတာ အစားထိုးမွဳ ေအာင္ျမင္."</string>
+     <string name="earth">"ကမၻာေျမျကီး"</string>
+     <string name="kraft">"သားေရ စကၠဴ"</string>
+     <string name="grain">"သစ္သား"</string>
+     <string name="fashion">"ဖက္ရွင္"</string>
+     <string name="sinan">"သံလိုက္အိမ္ေျမွာင္"</string>
+     <string name="restore_ancient">"ျပန္ေခတ္စား"</string>
+     <string name="share_compass">"ေဝမွ်ပါ"</string>
+     <string name="toast_compass_internal_error">"သံလိုက္အိမ္ေျမွာင့္တြင္ အတြင္းပိုင္းအမွားေတြ ့."</string>
+     <string name="error_permissions">"ေအပီပီသည္ ဖြင့္ရန္ အဓိက ခြင့္ျပဳခ်က္မ်ား မရွိ. ေက်းဇူးျပဳ၍ ခြင့္ျပဳခ်က္ ဆက္တင္မ်ား စစ္ေဆးပါ."</string>
+     <string name="dialog_dismiss">"ထုတ္ပယ္သည္"</string>
+     <string name="failed_option">"ေရြးခ်ယ္မႈက်ရွံဳး"</string>
+
+    <string name="set_background_invalid_in_guestmode">"ပိုင္ရွင္မုတ္ မပါဘဲနွင့္ စိတ္ျကိုက္ ေနာက္ခံ ပံုရိပ္ ဆက္တင္ မလုပ္ နိုင္ပါ! "</string>
+</resources>

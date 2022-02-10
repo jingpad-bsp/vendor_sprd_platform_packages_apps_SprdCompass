@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Kompas"</string>
+     <string name="action_settings">"Nastavenia"</string>
+     <string name="compass_activity_title">"Kompas a výškomer"</string>
+     <string name="getting_location">"Získava sa poloha..."</string>
+     <string name="location_north">"SZŠ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"JZŠ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"VZD <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"ZZD <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"nadmorská výška"</string>
+     <string name="message_no_orientation_sensor">"Žiadny senzor smeru"</string>
+     <string name="message_location_fail">"Nedá sa získať informácie o polohe"</string>
+     <string name="altitude_unit">"meter"</string>
+     <string name="preference_background_title">"Obrázok pozadia"</string>
+     <string name="preference_pointer_type_title">"Typ kompasu"</string>
+     <string name="preference_share_title">"Zdieľať"</string>
+     <string name="preference_share_summary">"Zdieľať aktuálnu zemepisnú šírku a hodnoty z kompasu"</string>
+     <string name="custom_background_summary">"Vlastný obrázok pozadia"</string>
+     <string name="set_background_ok">"Výmena tapety úspešná."</string>
+     <string name="earth">"Zem"</string>
+     <string name="kraft">"sulfátový papier"</string>
+     <string name="grain">"Drevo"</string>
+     <string name="fashion">"Móda"</string>
+     <string name="sinan">"Kompas"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Zdieľať"</string>
+     <string name="toast_compass_internal_error">"V Kompase sa vyskytla interná chyba."</string>
+     <string name="error_permissions">"Aplikácia nemá dôležité povolenia potrebné na spustenie. Skontrolujte nastavenia povolení."</string>
+     <string name="dialog_dismiss">"Zatvoriť"</string>
+     <string name="failed_option">"Možnosť zlyhala"</string>
+     <string name="set_background_invalid_in_guestmode">"Nedá sa nastaviť vlastný obrázok pozadia bez režimu vlastníka!"</string>
+
+</resources>

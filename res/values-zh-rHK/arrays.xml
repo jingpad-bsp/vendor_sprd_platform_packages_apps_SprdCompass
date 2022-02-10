@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"地球"</item>
+<item>"牛皮紙"</item>
+<item>"木紋"</item>
+<item>"自訂背景圖"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"新潮"</item>
+<item>"司南"</item>
+<item>"復古"</item>
+</string-array>
+</resources>

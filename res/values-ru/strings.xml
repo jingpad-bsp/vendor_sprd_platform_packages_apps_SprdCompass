@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"С"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"В"</string>
+<string name="direction_west">W</string>
+    <string name="app_name">"Компас"</string>
+     <string name="action_settings">"Настройки"</string>
+     <string name="compass_activity_title">"Компас и Высотомер"</string>
+     <string name="getting_location">"Получение данных о местоположении ..."</string>
+     <string name="location_north">"Север <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"Юг <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"Восток <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"Запад <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"высота"</string>
+     <string name="message_no_orientation_sensor">"Датчик направления отсутствует"</string>
+     <string name="message_location_fail">"Получить информацию о местоположении не удалось"</string>
+     <string name="altitude_unit">"метр"</string>
+     <string name="preference_background_title">"Фоновое изображение"</string>
+     <string name="preference_pointer_type_title">"Тип Компас"</string>
+     <string name="preference_share_title">"Отправить"</string>
+     <string name="preference_share_summary">"Общий доступ к текущим значениям  широты и показаниям компаса"</string>
+     <string name="custom_background_summary">"Пользовательские фоновое изображение"</string>
+     <string name="set_background_ok">"Замена обоев выполнена успешно."</string>
+     <string name="earth">"Земля"</string>
+     <string name="kraft">"Крафт-бумага"</string>
+     <string name="grain">"Дерево"</string>
+     <string name="fashion">"Стиль"</string>
+     <string name="sinan">"Компас"</string>
+     <string name="restore_ancient">"Ретро"</string>
+     <string name="share_compass">"Отправить"</string>
+     <string name="toast_compass_internal_error">"В программе "Компас" произошла внутренняя ошибка."</string>
+     <string name="error_permissions">"Для запуска приложения требуются определенные разрешения. Предоставьте их в настройках."</string>
+     <string name="dialog_dismiss">"Выключить"</string>
+     <string name="failed_option">"Не удалось выполнить"</string>
+     <string name="set_background_invalid_in_guestmode">"Установка пользовательского фонового  изображения не доступна вне режима ползователя!"</string>
+
+</resources>

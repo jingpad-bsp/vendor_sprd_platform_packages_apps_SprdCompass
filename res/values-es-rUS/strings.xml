@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Brújula"</string>
+     <string name="action_settings">"Configuración"</string>
+     <string name="compass_activity_title">"Brújula y altímetro"</string>
+     <string name="getting_location">"Obteniendo la ubicación..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"altitud"</string>
+     <string name="message_no_orientation_sensor">"Sin sensor de dirección"</string>
+     <string name="message_location_fail">"No se puede obtener la información de ubicación"</string>
+     <string name="altitude_unit">"metro"</string>
+     <string name="preference_background_title">"Imagen de fondo"</string>
+     <string name="preference_pointer_type_title">"Tipo de Brújula"</string>
+     <string name="preference_share_title">"Compartir"</string>
+     <string name="preference_share_summary">"Compartir los valores de latitud y brújula actuales"</string>
+     <string name="custom_background_summary">"Imagen de fondo personalizada"</string>
+     <string name="set_background_ok">"Reemplazo satisfactorio del fondo es escritorio."</string>
+     <string name="earth">"Tierra"</string>
+     <string name="kraft">"Papel kraft"</string>
+     <string name="grain">"Madera"</string>
+     <string name="fashion">"Moda"</string>
+     <string name="sinan">"Brújula"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Compartir"</string>
+     <string name="toast_compass_internal_error">"Se ha producido un error interno en la brújula."</string>
+     <string name="error_permissions">"La aplicación no tiene los permisos fundamentales necesarios para ejecutarse. Comprueba la configuración de permisos."</string>
+     <string name="dialog_dismiss">"Descartar"</string>
+     <string name="failed_option">"Operación fallida"</string>
+     <string name="set_background_invalid_in_guestmode">"¡No se puede establecer una imagen de fondo personalizado sin el modo de propietario!"</string>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Kompas"</string>
+     <string name="action_settings">"Ustawienia"</string>
+     <string name="compass_activity_title">"Kompas i Wysokościomierz"</string>
+     <string name="getting_location">"Namierzanie lokalizacji..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"wysokość"</string>
+     <string name="message_no_orientation_sensor">"Brak czujnika kierunku"</string>
+     <string name="message_location_fail">"Nie można uzyskać informacji o lokalizacji"</string>
+     <string name="altitude_unit">"metr"</string>
+     <string name="preference_background_title">"Obraz tła"</string>
+     <string name="preference_pointer_type_title">"Typ kompasu"</string>
+     <string name="preference_share_title">"Udostępnij"</string>
+     <string name="preference_share_summary">"Udostępnij aktualną szerokość geograficzną oraz wartości kompasu"</string>
+     <string name="custom_background_summary">"Własny obraz tła"</string>
+     <string name="set_background_ok">"Zmiana tapety udana"</string>
+     <string name="earth">"Ziemia"</string>
+     <string name="kraft">"Papier kraft"</string>
+     <string name="grain">"Drewno"</string>
+     <string name="fashion">"Moda"</string>
+     <string name="sinan">"Kompas"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Udostępnij"</string>
+     <string name="toast_compass_internal_error">"W Kompasie miał miejsce błąd wewnętrzny."</string>
+     <string name="error_permissions">"Aplikacja nie ma uprawnień niezbędnych do uruchomienia. Sprawdź ustawienia uprawnień."</string>
+     <string name="dialog_dismiss">"Wyłącz"</string>
+     <string name="failed_option">"Opcja zakończona niepowodzeniem"</string>
+     <string name="set_background_invalid_in_guestmode">"Nie można ustawić własnego obrazu tła bez trybu właściciela!"</string>
+
+</resources>

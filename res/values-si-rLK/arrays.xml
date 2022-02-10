@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"පෘථිවිය"</item>
+<item>"ක්‍රාෆ්ට් කඩදාසි"</item>
+<item>"දැව"</item>
+<item>"අභිමත පසුබිම් රූපය"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"විලාසිතාව"</item>
+<item>"මාලිමාව"</item>
+<item>"පස්සට"</item>
+</string-array>
+</resources>

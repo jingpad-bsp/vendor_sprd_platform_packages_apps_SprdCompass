@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"צפון"</string>
+<string name="direction_south">"שנ\'"</string>
+<string name="direction_east">"מזרח"</string>
+<string name="direction_west">"מערב"</string>
+
+    <string name="app_name">"מצפן"</string>
+     <string name="action_settings">"הגדרות"</string>
+     <string name="compass_activity_title">"מצפן ומד גובה"</string>
+     <string name="getting_location">"משיג מיקום..."</string>
+     <string name="location_north">"קו אורך צפוני <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"קו אורך דרומי <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"קו רוחב מזרחי <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"קו רוחב מערבי <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"גובה"</string>
+     <string name="message_no_orientation_sensor">"אין חיישן כיוון"</string>
+     <string name="message_location_fail">"לא ניתן להשיג פרטי מיקום"</string>
+     <string name="altitude_unit">"מטר"</string>
+     <string name="preference_background_title">"תמונת רקע"</string>
+     <string name="preference_pointer_type_title">"סוג מצפן"</string>
+     <string name="preference_share_title">"שתף"</string>
+     <string name="preference_share_summary">"שתפו את ערכי קווי האורך והרוחב והמצפן שלכם"</string>
+     <string name="custom_background_summary">"תמונת רקע מותאמת אישית"</string>
+     <string name="set_background_ok">"החלפת הטפט בוצעה בהצלחה."</string>
+     <string name="earth">"כדור הארץ"</string>
+     <string name="kraft">"נייר יצירה"</string>
+     <string name="grain">"עץ"</string>
+     <string name="fashion">"אופנה"</string>
+     <string name="sinan">"מצפן"</string>
+     <string name="restore_ancient">"רטרו"</string>
+     <string name="share_compass">"שתף"</string>
+     <string name="toast_compass_internal_error">"שגיאה פנימית אירעה במצפן."</string>
+     <string name="error_permissions">"האפליקציה זקוקה להרשאות קריטיות בשביל לפעול. בדוק את הגדרת ההרשאות."</string>
+     <string name="dialog_dismiss">"בטל"</string>
+     <string name="failed_option">"האפשרות נכשלה"</string>
+     <string name="set_background_invalid_in_guestmode">"לא ניתן לערוך תמונת רקע מותאמת אישית ללא תצורת בעלים!"</string>
+</resources>

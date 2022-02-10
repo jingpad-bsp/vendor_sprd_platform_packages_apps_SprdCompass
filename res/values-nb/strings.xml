@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"Ø"</string>
+<string name="direction_west">"V"</string>
+    <string name="app_name">"Kompass"</string>
+     <string name="action_settings">"Innstillinger"</string>
+     <string name="compass_activity_title">"Kompass and Høydemåler"</string>
+     <string name="getting_location">"Henter lokasjon..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"ØL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"VL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"høyde"</string>
+     <string name="message_no_orientation_sensor">"Ingen retningssensor"</string>
+     <string name="message_location_fail">"Kan ikke hente posisjonsinformasjon"</string>
+     <string name="altitude_unit">"meter"</string>
+     <string name="preference_background_title">"Bakgrunnsbilde"</string>
+     <string name="preference_pointer_type_title">"Kompasstype"</string>
+     <string name="preference_share_title">"Del"</string>
+     <string name="preference_share_summary">"Del nåværende breddegrad- og kompassverdier"</string>
+     <string name="custom_background_summary">"Tilpasset bakgrunnsbilde"</string>
+     <string name="set_background_ok">"Vellykket bytting av bakgrunnsbilde."</string>
+     <string name="earth">"Jord"</string>
+     <string name="kraft">"Kraft papir"</string>
+     <string name="grain">"Treverk"</string>
+     <string name="fashion">"Mote"</string>
+     <string name="sinan">"Kompass"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Del"</string>
+     <string name="toast_compass_internal_error">"En intern feil oppsto i Kompasset"</string>
+     <string name="error_permissions">"Appen mangler tillatelser som er avgjørende for å kunne kjøres. Sjekk innstillingene for tillatelsene dine."</string>
+     <string name="dialog_dismiss">"Avvis"</string>
+     <string name="failed_option">"Alternativet mislyktes"</string>
+     <string name="set_background_invalid_in_guestmode">"Kunne ikke endre til tilpasset bakgrunnsbilde uten eiermodus!"</string>
+
+</resources>

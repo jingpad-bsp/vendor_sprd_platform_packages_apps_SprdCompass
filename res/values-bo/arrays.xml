@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"སའི་གོ་ལ།"</item>
+<item>"ཤོག་གྱོང་།"</item>
+<item>"ཤིང་རིས།"</item>
+<item>"རང་འཇོག་རྒྱབ་ལྗོངས།"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"དུས་རྒྱུག་ཆེ།"</item>
+<item>"ཕྱོགས་སྟོན་འཁོར་ལོ།"</item>
+<item>"གནའ་ཉམས།"</item>
+</string-array>
+</resources>

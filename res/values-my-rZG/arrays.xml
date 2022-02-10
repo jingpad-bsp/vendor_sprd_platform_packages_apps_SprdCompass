@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"ကမၻာေျမျကီး"</item>
+<item>"သားေရ စကၠဴ"</item>
+<item>"သစ္သား"</item>
+<item>"ေဖာက္သည္ ေနာက္ခံ ရုပ္ပံု"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"ဖက္ရွင္"</item>
+<item>"သံလိုက္အိမ္ေျမွာင္"</item>
+<item>"ျပန္ေခတ္စား"</item>
+</string-array>
+</resources>

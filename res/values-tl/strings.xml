@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Kompas"</string>
+     <string name="action_settings">"Mga Setting"</string>
+     <string name="compass_activity_title">"Kompas at Altimetro"</string>
+     <string name="getting_location">"Kumukuha ng lokasyon…"</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"altitud"</string>
+     <string name="message_no_orientation_sensor">"Walang direksyon na sensor"</string>
+     <string name="message_location_fail">"Hindi makuha ang impormasyon ng lokasyon"</string>
+     <string name="altitude_unit">"metro"</string>
+     <string name="preference_background_title">"Imahe sa likuran"</string>
+     <string name="preference_pointer_type_title">"Klase ng kompas"</string>
+     <string name="preference_share_title">"Ibahagi"</string>
+     <string name="preference_share_summary">"Ibahagi ang kasalukuyang latitud at mga halaga ng kompas"</string>
+     <string name="custom_background_summary">"Sadyain ang likuran na imahe"</string>
+     <string name="set_background_ok">"Pagpalit ng wallpaper ay nagtagumpay."</string>
+     <string name="earth">"Mundo"</string>
+     <string name="kraft">"Krapt na papel"</string>
+     <string name="grain">"Kahoy"</string>
+     <string name="fashion">"Moda"</string>
+     <string name="sinan">"Kompas"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Ibahagi"</string>
+     <string name="toast_compass_internal_error">"Isang panloob na kamalian ay naganap sa Kompas."</string>
+     <string name="error_permissions">"Walang mga kinakailangang kritikal na pahintulot ang app upang tumakbo. Pakitingnan ang mga setting ng iyong mga pahintulot."</string>
+     <string name="dialog_dismiss">"Balewalain"</string>
+     <string name="failed_option">"Nabigong pagpipilian"</string>
+     <string name="set_background_invalid_in_guestmode">"Hindi maaari makatakda ng kaugaliang bakgrawnd na imahe na walang may-ari na modo!"</string>
+
+</resources>

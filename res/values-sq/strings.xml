@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Busull"</string>
+<string name="action_settings">Cilësimet</string>
+<string name="compass_activity_title">"Busull dhe altimetër"</string>
+<string name="getting_location">"Duke gjetur vendndodhjen..."</string>
+<string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="altitude_text">"lartësia"</string>
+<string name="message_no_orientation_sensor">"Nuk ka sensor drejtimi"</string>
+<string name="message_location_fail">"E pamundur të merret informacioni i vendndodhjes"</string>
+<string name="altitude_unit">"metër"</string>
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+<string name="preference_background_title">"Figura e sfondit"</string>
+<string name="preference_pointer_type_title">"Lloji i busullës"</string>
+<string name="preference_share_title">Ndaj</string>
+<string name="preference_share_summary">"Ndani vlerat aktuale të lartësisë dhe busullës"</string>
+<string name="custom_background_summary">"Figurë sfondi e personalizuar"</string>
+<string name="set_background_ok">"Ndërrimi i figurës të murit me sukses."</string>
+<string name="earth">"Toka"</string>
+<string name="kraft">"Letër kraft"</string>
+<string name="grain">"Dru"</string>
+<string name="fashion">"Modë"</string>
+<string name="sinan">"Busull"</string>
+<string name="restore_ancient">"Retro"</string>
+<string name="share_compass">Ndaj</string>
+<string name="toast_compass_internal_error">"Ndodhi një gabim i brendshëm te busulla."</string>
+<string name="error_permissions">"Aplikacioni nuk ka lejet kritike të nevojshme për ekzekutimin. Kontrollo cilësimet e tua të lejeve."</string>
+<string name="dialog_dismiss">Hiq</string>
+<string name="failed_option">Opsioni dështoi</string>
+<string name="set_background_invalid_in_guestmode">"S\u2019mund të vendoset imazhi i zakonshëm në sfond pa modalitetin e pronarit!"</string>
+</resources>

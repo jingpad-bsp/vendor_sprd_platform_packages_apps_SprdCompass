@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"โลก"</item>
+<item>"กระดาษคราฟท์"</item>
+<item>"ไม่"</item>
+<item>"ภาพพื้นหลังที่กำหนดเอง"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"แฟชั่น"</item>
+<item>"เข็มทิศ"</item>
+<item>"ย้อนยุค"</item>
+</string-array>
+</resources>

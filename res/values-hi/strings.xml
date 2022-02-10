@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"उ"</string>
+<string name="direction_south">"सेकंड"</string>
+<string name="direction_east">"पू"</string>
+<string name="direction_west">"प"</string>
+    <string name="app_name">"दिशासूचक"</string>
+     <string name="action_settings">"सेटिंग"</string>
+     <string name="compass_activity_title">"दिशासूचक व ऊंचाई मापने का यंत्र"</string>
+     <string name="getting_location">"स्थान प्राप्त किया जा रहा है..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"ऊंचाई"</string>
+     <string name="message_no_orientation_sensor">"कोई दिशा संवेदक नहीं"</string>
+     <string name="message_location_fail">"स्थान जानकारी प्राप्त करने में असमर्थ"</string>
+     <string name="altitude_unit">"मीटर"</string>
+     <string name="preference_background_title">"पृष्ठभूमि चित्र"</string>
+     <string name="preference_pointer_type_title">"दिशासूचक प्रकार"</string>
+     <string name="preference_share_title">"शेयर करें"</string>
+     <string name="preference_share_summary">"मौजूदा चौड़ाई व दिशासूचक मूल्य सांझे करें"</string>
+     <string name="custom_background_summary">"कस्टम पृष्ठभूमि चित्र"</string>
+     <string name="set_background_ok">"वालपेपर बदलना सफल हुआ।"</string>
+     <string name="earth">"जमीन"</string>
+     <string name="kraft">"क्राफ्ट पेपर"</string>
+     <string name="grain">"लकड़ी"</string>
+     <string name="fashion">"फैशन"</string>
+     <string name="sinan">"दिशासूचक"</string>
+     <string name="restore_ancient">"पूर्वव्यापी"</string>
+     <string name="share_compass">"शेयर करें"</string>
+     <string name="toast_compass_internal_error">"दिशासूचक में एक अंदरूनी त्रुटि हुई।"</string>
+     <string name="error_permissions">"ऐप के पास चलने के लिए महत्‍वपूर्ण अनुमतियां नहीं हैं. कृपया अपनी अनुमतियां सेटिंग जांचें."</string>
+     <string name="dialog_dismiss">"ख़ारिज करें"</string>
+     <string name="failed_option">"विकल्प विफल"</string>
+     <string name="set_background_invalid_in_guestmode">"मालिक मोड के बिना कस्टम पृष्ठभूमि चित्र सेट नहीं किया जा सकता!"</string>
+
+</resources>

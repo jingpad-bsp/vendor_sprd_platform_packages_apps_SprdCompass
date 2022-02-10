@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"Земља"</item>
+<item>"Крафт папир"</item>
+<item>"Шума"</item>
+<item>"Позадинска слика од стране корисника"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"Мода"</item>
+<item>"Компас"</item>
+<item>"Ретро"</item>
+</string-array>
+</resources>

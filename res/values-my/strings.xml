@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"အိမ်မြှောင်"</string>
+<string name="action_settings">ဆက္တင္မ်ား </string>
+<string name="compass_activity_title">"အိမ်မြှောင်နှင့် အယ်လ်တီမီတာ"</string>
+<string name="getting_location">"တည်နေရာ ရယူနေသည်..."</string>
+<string name="location_north">"မြောက်တည်နေရာ <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_south">"တောင်တည်နေရာ <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_east">"အရှေ့တည်နေရာ <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_west">"အနောက်တည်နေရာ <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="altitude_text">"ပင်လယ်ပြင်ထက်အမြင့်"</string>
+<string name="message_no_orientation_sensor">"ဦးတည်ရာအာရုံခံ မရှိပါ"</string>
+<string name="message_location_fail">"တည်နေရာ အချက်အလက်များကို ယူ၍မရပါ"</string>
+<string name="altitude_unit">"မီတာ"</string>
+<string name="direction_north">n</string>
+<string name="direction_south">စကၠန္႔</string>
+<string name="direction_east">e</string>
+<string name="direction_west">w</string>
+<string name="preference_background_title">"နောက်ခံပုံ"</string>
+<string name="preference_pointer_type_title">"သံလိုက်အိမ်မြှောင် အမျိုးအစား"</string>
+<string name="preference_share_title">ေဝမွ်ပါ</string>
+<string name="preference_share_summary">"လက်ရှိ ပင်လယ်ပြင်အထက် အမြင့်နှင့် သံလိုက်အိမ်မြှောင်ပါ တန်ဖိုးများကို မှျဝေပါ"</string>
+<string name="custom_background_summary">"စိတ်ကြိုက် နောက်ခံပုံ"</string>
+<string name="set_background_ok">"နောက်ခံပုံအစားထိုးခြင်း အောင်မြင်ပါသည်။"</string>
+<string name="earth">"ကမ္ဘာ"</string>
+<string name="kraft">"Kraft စက္ကူ"</string>
+<string name="grain">"သစ်သား"</string>
+<string name="fashion">"ဖက်ရှင်"</string>
+<string name="sinan">"အိမ်မြှောင်"</string>
+<string name="restore_ancient">"ရီထရို"</string>
+<string name="share_compass">ေဝမွ်ပါ</string>
+<string name="toast_compass_internal_error">"သံလိုက်အိမ်မြှောင်တွင် အတွင်းပိုင်း ချွတ်ယွင်းမှုတစ်ခု ဖြစ်နေသည်။"</string>
+<string name="error_permissions">"အက်ပ်တွင် ၎င်းအလုပ်လုပ်ရန် အရေးကြီးသည့် ခွင့်ပြုချက်များကို ရမထားပါ။ သင်၏ ခွင့်ပြုချက် ဆက်တင်များကို စစ်ဆေးပေးပါ။"</string>
+<string name="dialog_dismiss">ခ်န္လွပ္ထားသည္</string>
+<string name="failed_option">ေရြးခ်ယ္မႈက်ရွံဳး</string>
+<string name="set_background_invalid_in_guestmode">"ပိုင်ရှင်မုဒ် မဟုတ်ဘဲ စိတ်ကြိုက်နောက်ခံပုံကို သတ်မှတ်၍မရပါ။"</string>
+</resources>

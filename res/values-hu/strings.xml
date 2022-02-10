@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"É"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"K"</string>
+<string name="direction_west">"Ny"</string>
+    <string name="app_name">"Iránytű"</string>
+     <string name="action_settings">"Beállítások"</string>
+     <string name="compass_activity_title">"Iránytű és magasságmérő"</string>
+     <string name="getting_location">"Helymeghatározás..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"magasság"</string>
+     <string name="message_no_orientation_sensor">"Nincs irány szenzor"</string>
+     <string name="message_location_fail">"Nem sikerült hozzáférni a helymeghatározás adataihoz"</string>
+     <string name="altitude_unit">"méter"</string>
+     <string name="preference_background_title">"Háttérkép"</string>
+     <string name="preference_pointer_type_title">"Iránytű típusa"</string>
+     <string name="preference_share_title">"Megosztás"</string>
+     <string name="preference_share_summary">"A jelenlegi pozíció és iránytű értékek megosztása"</string>
+     <string name="custom_background_summary">"Egyedi háttérkép"</string>
+     <string name="set_background_ok">"A háttérkép cseréje sikeres."</string>
+     <string name="earth">"Föld"</string>
+     <string name="kraft">"Csomagolópapír"</string>
+     <string name="grain">"Fa"</string>
+     <string name="fashion">"Divat"</string>
+     <string name="sinan">"Iránytű"</string>
+     <string name="restore_ancient">"Retró"</string>
+     <string name="share_compass">"Megosztás"</string>
+     <string name="toast_compass_internal_error">"Belső hiba történt az iránytűben."</string>
+     <string name="error_permissions">"Az alkalmazás nem rendelkezik a futtatáshoz szükséges alapvető engedélyekkel. Ellenőrizze az engedélybeállításokat."</string>
+     <string name="dialog_dismiss">"Elvetés"</string>
+     <string name="failed_option">"Sikertelen opció"</string>
+     <string name="set_background_invalid_in_guestmode">"Nem állítható be egyedi háttérkép tulajdonos üzemmódon kívül!"</string>
+
+</resources>

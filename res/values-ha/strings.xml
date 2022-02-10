@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"S"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Kamfas"</string>
+     <string name="action_settings">"Saituna"</string>
+     <string name="compass_activity_title">"Kamfas da Altimeta"</string>
+     <string name="getting_location">"Ana neman muhalli..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"tsayi"</string>
+     <string name="message_no_orientation_sensor">"Babu saitin mai sansanawa"</string>
+     <string name="message_location_fail">"Ba a iya nemo bayanan wajen ba"</string>
+     <string name="altitude_unit">"mita"</string>
+     <string name="preference_background_title">"Hoton bayan fage"</string>
+     <string name="preference_pointer_type_title">"nau\'in kamfas"</string>
+     <string name="preference_share_title">"Raba"</string>
+     <string name="preference_share_summary">"A yada wannan kimar latitud din da kuma kamfas"</string>
+     <string name="custom_background_summary">"tsara hoton bayan fage"</string>
+     <string name="set_background_ok">"An yi nasarar sauya hoton bango."</string>
+     <string name="earth">"Duniya"</string>
+     <string name="kraft">"Takardar Kraft"</string>
+     <string name="grain">"Itace"</string>
+     <string name="fashion">"kwalliya"</string>
+     <string name="sinan">"Kamfas"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Raba"</string>
+     <string name="toast_compass_internal_error">"An sami wata matsala a cikin kamfas."</string>
+     <string name="error_permissions">"Manhajar ba ta da tabbataccen izinin da ake bukata don tafiyarwa. Duba saitukan izinin ka."</string>
+     <string name="dialog_dismiss">"Sallama"</string>
+     <string name="failed_option">"Zabin ya gaza"</string>
+     <string name="set_background_invalid_in_guestmode">"Ba a saita hoton bayan fage ba tare da yanayin mallaka ba!"</string>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">指南针和高度计</string>
+    <string name="action_settings">设置</string>
+    <string name="compass_activity_title">指南针和高度计</string>
+    <string name="compass_degree_symbol">&#176;</string>
+    <string name="cannot_get_location">--</string>
+    <string name="getting_location">获取位置信息...</string>
+    <!--
+    <string name="location_north">NL</string>
+    <string name="location_south">SL</string>
+    <string name="location_east">EL</string>
+    <string name="location_west">WL</string>
+
+    <string name="location_north">NL <xliff:g id="location">%1$s</xliff:g></string>
+    <string name="location_south">SL <xliff:g id="location">%1$s</xliff:g></string>
+    <string name="location_east">EL <xliff:g id="location">%1$s</xliff:g></string>
+    <string name="location_west">WL <xliff:g id="location">%1$s</xliff:g></string>
+    -->
+
+    <string name="location_north">北纬 <xliff:g id="location">%1$s</xliff:g></string>
+    <string name="location_south">南纬 <xliff:g id="location">%1$s</xliff:g></string>
+    <string name="location_east">东经 <xliff:g id="location">%1$s</xliff:g></string>
+    <string name="location_west">西经 <xliff:g id="location">%1$s</xliff:g></string>
+    <string name="altitude_text">海拔</string>
+    <string name="message_no_orientation_sensor">无方向传感器</string>
+    <string name="message_location_fail">无法获取到位置信息</string>
+    <!--
+    <string name="latitude_longitude_first_unit">&#176;</string>
+    <string name="latitude_longitude_second_unit">&#039;</string>
+    <string name="latitude_longitude_third_unit">&#034;</string>
+    -->
+    <string name="altitude_unit">米</string>
+    <string name="direction_north">北</string>
+    <string name="direction_south">南</string>
+    <string name="direction_east">东</string>
+    <string name="direction_west">西</string>
+
+    <string name="preference_background_title">背景图</string>
+    <string name="preference_pointer_type_title">指南针类型</string>
+    <string name="preference_share_title">分享</string>
+    <string name="preference_share_summary">分享当前的经纬度和指南针数值</string>
+    <string name="custom_background_summary">自定义背景图</string>
+    <string name="set_background_ok">壁纸更换成功</string>
+    <string name="earth">地球</string>
+    <string name="kraft">牛皮纸</string>
+    <string name="grain">木纹</string>
+    <string name="fashion">新潮</string>
+    <string name="sinan">司南</string>
+    <string name="restore_ancient">复古</string>
+
+    <string name="share_compass">分享</string>
+
+    <!-- SPRD: add for 512028 @{ -->
+    <string name="toast_compass_internal_error">"指南针发生内部错误！"</string>
+    <string name="error_permissions">"此应用的权限已变动，如有需要，请重新设置应用权限。"</string>
+    <string name="dialog_dismiss">"关闭"</string>
+    <string name="failed_option">操作失败</string>
+    <!-- @} -->
+    <string name="set_background_invalid_in_guestmode">非机主模式下，无法设置自定义背景图片!</string>
+</resources>

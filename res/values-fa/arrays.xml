@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"زمین"</item>
+<item>"کاغذ گرافت"</item>
+<item>"چوب"</item>
+<item>"تصویر پس‌زمینه دلخواه"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"مد"</item>
+<item>"قطب‌نما"</item>
+<item>"عقب"</item>
+</string-array>
+</resources>

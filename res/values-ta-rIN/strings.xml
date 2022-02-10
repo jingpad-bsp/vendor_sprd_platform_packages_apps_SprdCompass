@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"திசைகாட்டி"</string>
+     <string name="action_settings">அமைப்புகள்</string>
+     <string name="compass_activity_title">"திசைகாட்டி மற்றும் அல்டிமீட்டர்"</string>
+     <string name="getting_location">"அமைவிடத்தை அடைகிறது..."</string>
+     <string name="location_north">"என்எல் <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"எஸ்எல் <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"இஎல் <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"டபிள்யுஎல் <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"உயரம்"</string>
+     <string name="message_no_orientation_sensor">"திசை உணர்வி இல்லை"</string>
+     <string name="message_location_fail">"அமைவிட தகவலை பெற முடியவில்லை"</string>
+     <string name="altitude_unit">"மீட்டர்"</string>
+     <string name="preference_background_title">"பின்புல படம்"</string>
+     <string name="preference_pointer_type_title">"திசைகாட்டி வகை"</string>
+     <string name="preference_share_title">பகிரவும்</string>
+     <string name="preference_share_summary">"தற்போதைய அச்சரேகை மற்றும் திசைகாட்டி மதிப்புகளை பகிரவும்"</string>
+     <string name="custom_background_summary">"விருப்பமான பின்புல படம்"</string>
+     <string name="set_background_ok">"வால்பேப்பரை மாற்றுவது வெற்றி பெற்றுள்ளது."</string>
+     <string name="earth">"பூமி"</string>
+     <string name="kraft">"கிராஃப்ட் பேப்பர்"</string>
+     <string name="grain">"மரம்"</string>
+     <string name="fashion">"ஃபேஷன்"</string>
+     <string name="sinan">"திசைகாட்டி"</string>
+     <string name="restore_ancient">"ரெட்ரோ"</string>
+     <string name="share_compass">பகிரவும்</string>
+     <string name="toast_compass_internal_error">"திசைகாட்டியில் ஒரு உள் கோளாறு ஏற்ப்பட்டுள்ளது."</string>
+     <string name="error_permissions">"இயக்குவதற்குத் தேவைப்படும் முக்கியமான அனுமதிகள் பயன்பாட்டில் இல்லை. உங்கள் அனுமதிகளின் அமைப்புகளைச் சரிபார்க்கவும்."</string>
+     <string name="dialog_dismiss">"கலைத்து அனுப்பவும்"</string>
+     <string name="failed_option">"தெரிவு தோல்வியுற்றது"</string>
+     <string name="set_background_invalid_in_guestmode">"முதலாளி முறை இல்லாமல் விருப்பமான பின்புல படத்தை அமைக்க முடியாது!"</string>
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Compass"</string>
+<string name="action_settings">"Réguilagiwou"</string>
+<string name="compass_activity_title">"Compass ani Altimetri"</string>
+<string name="getting_location">"Yoro sorn"</string>
+<string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="altitude_text">"Sanféla"</string>
+<string name="message_no_orientation_sensor">"Tahayoro minala si téyé"</string>
+<string name="message_location_fail">"A téssé ka yoro kibara soron"</string>
+<string name="altitude_unit">"Métiri"</string>
+<string name="direction_north">"N"</string>
+<string name="direction_south">"S"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+<string name="preference_background_title">"Koféla imagi"</string>
+<string name="preference_pointer_type_title">"Compass sougou"</string>
+<string name="preference_share_title">"A tila"</string>
+<string name="preference_share_summary">"Sanfélé niin ni compass sôngo tila"</string>
+<string name="custom_background_summary">"Kofé imagi délilén"</string>
+<string name="set_background_ok">"Mirikayti falénni béna"</string>
+<string name="earth">"Dougoukolo"</string>
+<string name="kraft">"Kraft kayti"</string>
+<string name="grain">"Lokho"</string>
+<string name="fashion">"Fashion"</string>
+<string name="sinan">"Compass"</string>
+<string name="restore_ancient">"Kofé"</string>
+<string name="share_compass">"A tila"</string>
+<string name="toast_compass_internal_error">"Konola filili kéra compass kono"</string>
+<string name="error_permissions">"Apps ka hadjou té critiki kan di la puru ka sé ka bori Hakéto, i ka kan di settings ladjé"</string>
+<string name="dialog_dismiss">"A guin"</string>
+<string name="failed_option">"Option ma son"</string>
+</resources>

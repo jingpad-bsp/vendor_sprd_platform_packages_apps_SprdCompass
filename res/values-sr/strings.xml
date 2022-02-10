@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"с"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Компас"</string>
+     <string name="action_settings">"Подешавања"</string>
+     <string name="compass_activity_title">"Компас и алтиметар"</string>
+     <string name="getting_location">"Добијање локације..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"надморска висина"</string>
+     <string name="message_no_orientation_sensor">"Нема сензора за правац"</string>
+     <string name="message_location_fail">"Није могуће добити информације о локацији"</string>
+     <string name="altitude_unit">"метар"</string>
+     <string name="preference_background_title">"Позадинска слика"</string>
+     <string name="preference_pointer_type_title">"Тип компаса"</string>
+     <string name="preference_share_title">"Дели"</string>
+     <string name="preference_share_summary">"Објави тренутну географску ширину и вредности компаса"</string>
+     <string name="custom_background_summary">"Позадинска слика од стране корисника"</string>
+     <string name="set_background_ok">"Успешна замена позадине."</string>
+     <string name="earth">"Земља"</string>
+     <string name="kraft">"Крафт папир"</string>
+     <string name="grain">"Шума"</string>
+     <string name="fashion">"Мода"</string>
+     <string name="sinan">"Компас"</string>
+     <string name="restore_ancient">"Ретро"</string>
+     <string name="share_compass">"Дели"</string>
+     <string name="toast_compass_internal_error">"Дошло је до унутрашње грешке у компасу."</string>
+     <string name="error_permissions">"Апликација нема неопходну дозволу потребну за покретање. Проверите подешавања дозвола."</string>
+     <string name="dialog_dismiss">"Одбаци"</string>
+     <string name="failed_option">"Опција није успела"</string>
+     <string name="set_background_invalid_in_guestmode">"Не можете подесити позадинску слику без режима власника!"</string>
+
+</resources>

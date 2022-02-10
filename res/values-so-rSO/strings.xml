@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Jiheeye"</string>
+<string name="action_settings">"Qaabaynada"</string>
+<string name="compass_activity_title">"Jiheeye iyo Altimeter"</string>
+<string name="getting_location">"Wuxuu raadinayaa goobta..."</string>
+<string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="altitude_text">"Dhig dhaxo"</string>
+<string name="message_no_orientation_sensor">"Majiro jiho dareeme"</string>
+<string name="message_location_fail">"Maheli karo macluumaadka goobta"</string>
+<string name="altitude_unit">"Mitir"</string>
+<string name="direction_north">"N"</string>
+<string name="direction_south">"S"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+<string name="preference_background_title">"Sawirka gudaha"</string>
+<string name="preference_pointer_type_title">"Nooca jiheeyaha"</string>
+<string name="preference_share_title">"Wadaag"</string>
+<string name="preference_share_summary">"Lawadaag loolka iyo qiimayaasha jiheeyaha"</string>
+<string name="custom_background_summary">"Sawirka qaabaynta gudaha"</string>
+<string name="set_background_ok">"Badalida sawirka shaashad waa lagu guulaystay."</string>
+<string name="earth">"Dhulka"</string>
+<string name="kraft">"Waraaqda kraft"</string>
+<string name="grain">"Alwaax"</string>
+<string name="fashion">"Moodo"</string>
+<string name="sinan">"Jiheeye"</string>
+<string name="restore_ancient">"Retro"</string>
+<string name="share_compass">"Wadaag"</string>
+<string name="toast_compass_internal_error">"Cilad gudaha ah ayaa kudhacday jiheeyaha."</string>
+<string name="error_permissions">"Barnamiijkan malahan ogolaanshaha aasaasiga ah uu ku kaco. Fadlan hubi qaabaynadaada ogolaanshaha"</string>
+<string name="dialog_dismiss">"Ka bixid"</string>
+<string name="failed_option">"Ikhtiyaarka waa lagu guuldaraystay"</string>
+<string name="set_backgroud_invalid_in_guestmode">"Lama dajin karo sawirka macmiilka ee gudaha ayadoon lahaynin nooca mulkiilaha!"</string>
+</resources>

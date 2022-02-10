@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Compás"</string>
+<string name="action_settings">Axustes</string>
+<string name="compass_activity_title">"Compás e altímetro"</string>
+<string name="getting_location">"Obtendo localización..."</string>
+<string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="altitude_text">"altitude"</string>
+<string name="message_no_orientation_sensor">"Sen sensor de dirección"</string>
+<string name="message_location_fail">"Non se pode obter información sobre a localización"</string>
+<string name="altitude_unit">"Metro"</string>
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"O"</string>
+<string name="preference_background_title">"Imaxe de fondo"</string>
+<string name="preference_pointer_type_title">"Tipo de compás"</string>
+<string name="preference_share_title">Compartir</string>
+<string name="preference_share_summary">"Compartir a latitude actual e os valores do compás"</string>
+<string name="custom_background_summary">"Imaxe de fondo personalizado"</string>
+<string name="set_background_ok">"Substitución do fondo de pantalla realizada correctamente."</string>
+<string name="earth">"Terra"</string>
+<string name="kraft">"Papel Kraft"</string>
+<string name="grain">"Madeira"</string>
+<string name="fashion">"Moda"</string>
+<string name="sinan">"Compás"</string>
+<string name="restore_ancient">"Retro"</string>
+<string name="share_compass">Compartir</string>
+<string name="toast_compass_internal_error">"Houbo un erro interno no compás."</string>
+<string name="error_permissions">"A aplicación non ten permisos críticos que necesiten executarse. Comprobe a súa configuración de permisos."</string>
+<string name="dialog_dismiss">Descartar</string>
+<string name="failed_option">Opción errada</string>
+<string name="set_background_invalid_in_guestmode">"Só se pode personalizar a imaxe de fondo en modo propietario!"</string>
+</resources>

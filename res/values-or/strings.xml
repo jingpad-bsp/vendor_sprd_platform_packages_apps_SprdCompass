@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"କମ୍ପାସ୍"</string>
+<string name="action_settings">"ସଂସ୍ଥାପନା"</string>
+<string name="compass_activity_title">"କମ୍ପାସ୍ ଏବଂ ଆଲ୍ଟିମିଟର୍"</string>
+<string name="getting_location">"ଲୋକେସନ୍ ପାଇବା ପାଇଁ ଚେଷ୍ଟା କରୁଛି…"</string>
+<string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="altitude_text">"ଆଲ୍ଟିଚ୍ୟୁଡ୍"</string>
+<string name="message_no_orientation_sensor">"କୌଣସି ଡିରେକସନ୍ ସେନସର୍ ନାହିଁ"</string>
+<string name="message_location_fail">"ଲୋକେସନ୍ ସୂଚନା ବାହାର କରିବା ପାଇଁ ଅସମର୍ଥ"</string>
+<string name="altitude_unit">"ମିଟର"</string>
+<string name="direction_north">"N"</string>
+<string name="direction_south">"S"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+<string name="preference_background_title">"ବ୍ୟାକଗ୍ରାଉଣ୍ଡ ଇମେଜ୍"</string>
+<string name="preference_pointer_type_title">"କମ୍ପାସ୍ ପ୍ରକାର"</string>
+<string name="preference_share_title">"ଭାଗୀଦାରୀତା କରନ୍ତୁ"</string>
+<string name="preference_share_summary">"କରେଣ୍ଟ ଲାଟିଚ୍ୟୁଡ୍ ଏବଂ କମ୍ପାସ୍ ଭ୍ୟାଲ୍ୟୁ ସେୟାର କରନ୍ତୁ"</string>
+<string name="custom_background_summary">"ବ୍ୟାକଗ୍ରାଉଣ୍ଡ ଇମେଜ୍ କଷ୍ଟମ୍ କରନ୍ତୁ"</string>
+<string name="set_background_ok">"ୱାଲପେପର୍ ରିପ୍ଲେସମେଣ୍ଟ ସଫଳ ।"</string>
+<string name="earth">"ପୃଥିବୀ"</string>
+<string name="kraft">"କ୍ରାଫ୍ଟ ପେପର୍"</string>
+<string name="grain">"କାଠ"</string>
+<string name="fashion">"ଫ୍ୟାଶନ୍"</string>
+<string name="sinan">"କମ୍ପାସ୍"</string>
+<string name="restore_ancient">"ରେଟ୍ରୋ"</string>
+<string name="share_compass">"ଭାଗୀଦାରୀତା କରନ୍ତୁ"</string>
+<string name="toast_compass_internal_error">"କମ୍ପାସରେ ଏକ ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟି ଦେଖା ଦେଇଛି ।"</string>
+<string name="error_permissions">"ଚାଲିବା ପାଇଁ ଆବଶ୍ୟକ ନିର୍ଣ୍ଣୟମୂଳକ ଅନୁମତି ଏପ ର ନାହିଁ । ଦୟାକରି ଆପଣଙ୍କ ଅନୁମତି ସଂସ୍ଥାପନା ଗୁଡିକୁ ଯାଞ୍ଚ କରନ୍ତୁ ।"</string>
+<string name="dialog_dismiss">"ଡିସ୍‌ମିସ୍‌"</string>
+<string name="failed_option">"ବିକଳ୍ପ ବିଫଳ ହୋଇଛି"</string>
+<string name="set_background_invalid_in_guestmode">"ମାଲିକ ମୋଡ ବିନା କଷ୍ଟମ ବ୍ୟାକଗ୍ରାଉଣ୍ଡ ସେଟ ହୋଇ ପାରିବ ନାହିଁ"</string>
+</resources>

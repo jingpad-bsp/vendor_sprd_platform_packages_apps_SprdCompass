@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"Lafab"</item>
+<item>"Buufata waraqaa"</item>
+<item>"Muka"</item>
+<item>"Fakkii duubaa kaa’i"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"faashina"</item>
+<item>"Kallatteessituu"</item>
+<item>"Reetiroo"</item>
+</string-array>
+</resources>

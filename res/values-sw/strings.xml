@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Dira"</string>
+     <string name="action_settings">"Mipangilio"</string>
+     <string name="compass_activity_title">"Dira na Rashidi"</string>
+     <string name="getting_location">"Kupata eneo ..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"Urefu"</string>
+     <string name="message_no_orientation_sensor">"Hakuna kihisio ya mwelekeo "</string>
+     <string name="message_location_fail">"Imeshindwa kupata habari ya eneo"</string>
+     <string name="altitude_unit">"Mita"</string>
+     <string name="preference_background_title">"Picha ya msingi"</string>
+     <string name="preference_pointer_type_title">"Aina ya dira"</string>
+     <string name="preference_share_title">"Shiriki"</string>
+     <string name="preference_share_summary">"Shiriki urefu wa sasa na maadili ya dira"</string>
+     <string name="custom_background_summary">"Picha maalum ya msingi "</string>
+     <string name="set_background_ok">"Kubadilisha bamba ukuta kufanikiwa."</string>
+     <string name="earth">"Dunia"</string>
+     <string name="kraft">"Karatasi ya Kraft"</string>
+     <string name="grain">"Mbao"</string>
+     <string name="fashion">"Mtindo"</string>
+     <string name="sinan">"Dira"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Shiriki"</string>
+     <string name="toast_compass_internal_error">"Hitilafu ya ndani ilitokea katika Dira."</string>
+     <string name="error_permissions">"Programu haina ruhusa muhimu zinazohitajika ili itumike. Tafadhali angalia mipangilio yako ya ruhusa."</string>
+     <string name="dialog_dismiss">"Kataa"</string>
+     <string name="failed_option">"Chaguo limefeli"</string>
+     <string name="set_background_invalid_in_guestmode">"hauwezi kuweka picha msingi maalum bila hali ya mmiliki!"</string>
+
+</resources>

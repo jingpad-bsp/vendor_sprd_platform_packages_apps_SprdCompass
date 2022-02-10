@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Kompass"</string>
+     <string name="action_settings">"Seaded"</string>
+     <string name="compass_activity_title">"Kompass ja Altimeeter"</string>
+     <string name="getting_location">"Asukoha tuvastamine..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"altituud"</string>
+     <string name="message_no_orientation_sensor">"Suunasensor puudub"</string>
+     <string name="message_location_fail">"Ei saa kätte asukoha informatsiooni"</string>
+     <string name="altitude_unit">"meeter"</string>
+     <string name="preference_background_title">"Taustapilt"</string>
+     <string name="preference_pointer_type_title">"Kompassi tüüp"</string>
+     <string name="preference_share_title">"Jaga"</string>
+     <string name="preference_share_summary">"Jaga praeguseid laiuskraadi ja kompassi väärtusi"</string>
+     <string name="custom_background_summary">"Eri taustapilt"</string>
+     <string name="set_background_ok">"Taustavärvi asendus õnnestus."</string>
+     <string name="earth">"Maa"</string>
+     <string name="kraft">"Kunstipaber"</string>
+     <string name="grain">"Puu"</string>
+     <string name="fashion">"Mood"</string>
+     <string name="sinan">"Kompass"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Jaga"</string>
+     <string name="toast_compass_internal_error">"Kompassil ilmnes sisemine viga."</string>
+     <string name="error_permissions">"Rakendusel pole käitamiseks kriitilise tähtsusega lube. Kontrollige lubade seadeid."</string>
+     <string name="dialog_dismiss">"Loobu"</string>
+     <string name="failed_option">"Valik nurjus"</string>
+     <string name="set_background_invalid_in_guestmode">"Ei saa määrata eri taustapilti ilma omaniku režiimita!"</string>
+
+</resources>

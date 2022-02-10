@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">W</string>
+    <string name="app_name">"Kompas"</string>
+     <string name="action_settings">"Nastavení"</string>
+     <string name="compass_activity_title">"Kompas a altimeter"</string>
+     <string name="getting_location">"Zjišťuje umístění..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"výška"</string>
+     <string name="message_no_orientation_sensor">"Žádný snímač směru"</string>
+     <string name="message_location_fail">"Nedá se získat informace o umístění"</string>
+     <string name="altitude_unit">"meter"</string>
+     <string name="preference_background_title">"Obrázek pozadí"</string>
+     <string name="preference_pointer_type_title">"Typ kompasu"</string>
+     <string name="preference_share_title">"Sdílet"</string>
+     <string name="preference_share_summary">"Sdílet současnou výšku a hodnoty kompasu"</string>
+     <string name="custom_background_summary">"Obyčejný obrázek pozadí"</string>
+     <string name="set_background_ok">"Tapeta byla úspěšně vyměněna."</string>
+     <string name="earth">"Zem"</string>
+     <string name="kraft">"Sulfátový papír"</string>
+     <string name="grain">"Dřevo"</string>
+     <string name="fashion">"Móda"</string>
+     <string name="sinan">"Kompas"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Sdílet"</string>
+     <string name="toast_compass_internal_error">"Vnitřní chyba sa vyskytla v Kompasu."</string>
+     <string name="error_permissions">"Aplikace nemá důležitá oprávnění potřebná ke spuštění. Zkontrolujte nastavení oprávnění."</string>
+     <string name="dialog_dismiss">"Zavřít"</string>
+     <string name="failed_option">"Možnost se nepovedla"</string>
+     <string name="set_background_invalid_in_guestmode">"Nemůže nastavit obyčený obrázek pozadí bez režimu majitele!"</string>
+
+</resources>

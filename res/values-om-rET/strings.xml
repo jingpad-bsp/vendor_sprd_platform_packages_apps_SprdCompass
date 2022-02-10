@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Kallatteessituu"</string>
+<string name="action_settings">"Seetiinhiiwwan"</string>
+<string name="compass_activity_title">"Kallatteessituu fi safara"</string>
+<string name="getting_location">"Iddoo argachuu..."</string>
+<string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="altitude_text">"altitiyuudii"</string>
+<string name="message_no_orientation_sensor">"Miireffataan kallattii hin jiru"</string>
+<string name="message_location_fail">"Odeeffannoo iddoo argachuun hin danda’amne"</string>
+<string name="altitude_unit">"Meetira"</string>
+<string name="direction_north">"N"</string>
+<string name="direction_south">"S"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+<string name="preference_background_title">"Fakkii duubaa"</string>
+<string name="preference_pointer_type_title">"Gosa kallatteessaa"</string>
+<string name="preference_share_title">"Qooduu"</string>
+<string name="preference_share_summary">"Gatiiwwan Laatitiyuudii fikallatteessaa ammaa qoodi"</string>
+<string name="custom_background_summary">"Fakkii duubaa kaa’i"</string>
+<string name="set_background_ok">"Walpeepperii bakka buusuun milkaa’eera."</string>
+<string name="earth">"Lafab"</string>
+<string name="kraft">"Buufata waraqaa"</string>
+<string name="grain">"Muka"</string>
+<string name="fashion">"faashina"</string>
+<string name="sinan">"Kallatteessituu"</string>
+<string name="restore_ancient">"Reetiroo"</string>
+<string name="share_compass">"Qooduu"</string>
+<string name="toast_compass_internal_error">"Dogoggorri keessaa kallatteessaa keessatti muudate."</string>
+<string name="error_permissions">"Appilikeeshiniin eeyyaamoota barbaachise gadi fageenyaan hin qabu dalaguuf: Maaloo yoomeessawwan eeyyaamoota kee mirkannessi."</string>
+<string name="dialog_dismiss">"Dhaabuu"</string>
+<string name="failed_option">"Carraa kufe"</string>
+<string name="set_backgroud_invalid_in_guestmode">"Modeelii abbaa tin alatti fakii dugda duubee qopheessuu hindanda\'u!"</string>
+</resources>

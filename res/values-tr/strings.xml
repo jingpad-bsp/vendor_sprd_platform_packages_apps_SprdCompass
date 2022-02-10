@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Pusula"</string>
+     <string name="action_settings">"Ayarlar"</string>
+     <string name="compass_activity_title">"Pusula ve altimetre"</string>
+     <string name="getting_location">"Konum alınıyor..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"irtifa"</string>
+     <string name="message_no_orientation_sensor">"Hiçbir yön sensörü yok"</string>
+     <string name="message_location_fail">"Konum bilgileri elde edilemiyor"</string>
+     <string name="altitude_unit">"metre"</string>
+     <string name="preference_background_title">"Arka plan resmi"</string>
+     <string name="preference_pointer_type_title">"Pusula türü"</string>
+     <string name="preference_share_title">paylaş</string>
+     <string name="preference_share_summary">"Geçerli enlem ve pusula değerlerini paylaşın"</string>
+     <string name="custom_background_summary">"Özel arka plan görüntüsü"</string>
+     <string name="set_background_ok">"Duvar kağıdı değiştirme başarılı."</string>
+     <string name="earth">"Dünya"</string>
+     <string name="kraft">"Kraft kağıt "</string>
+     <string name="grain">"Ahşap "</string>
+     <string name="fashion">"Moda"</string>
+     <string name="sinan">"Pusula"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">paylaş</string>
+     <string name="toast_compass_internal_error">"Pusula içinde bir iç hata oluştu."</string>
+     <string name="error_permissions">"Uygulamanın, çalışması için gerekli olan kritik izinleri yok. Lütfen izin ayarlarınızı kontrol edin."</string>
+     <string name="dialog_dismiss">"Kapat"</string>
+     <string name="failed_option">"Seçenek başarısız"</string>
+     <string name="set_background_invalid_in_guestmode">"Yapabilir sahibi modu olmadan özel arka plan resmini ayarlayabilir!"</string>
+
+</resources>

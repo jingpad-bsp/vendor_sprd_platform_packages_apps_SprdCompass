@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"Bumi"</item>
+<item>"Kertas kraft"</item>
+<item>"Kayu"</item>
+<item>"Imej latar belakang tersuai"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"Fesyen"</item>
+<item>"Kompas"</item>
+<item>"Retro"</item>
+</string-array>
+</resources>

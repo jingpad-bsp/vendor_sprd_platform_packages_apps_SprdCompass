@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"S"</string>
+<string name="direction_east">"ਪੂ"</string>
+<string name="direction_west">W</string>
+    <string name="app_name">"ਦਿਸ਼ਾਸੂਚਕ"</string>
+     <string name="action_settings">ਸੈਟਿੰਗਸ</string>
+     <string name="compass_activity_title">"ਦਿਸ਼ਾਸੂਚਕ ਅਤੇ ਉਚਾਣ-ਮਾਪਣ"</string>
+     <string name="getting_location">"ਸਥਾਨ ਪ੍ਰਾਪਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"ਉਚਾਈ"</string>
+     <string name="message_no_orientation_sensor">"ਕੋਈ ਦਿਸ਼ਾ ਸੂਚਕ ਨਹੀਂ"</string>
+     <string name="message_location_fail">"ਸਥਾਨ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ"</string>
+     <string name="altitude_unit">"ਮੀਟਰ"</string>
+     <string name="preference_background_title">"ਪਿਛੋਕੜ ਚਿੱਤਰ"</string>
+     <string name="preference_pointer_type_title">"ਦਿਸ਼ਾਸੂਚਕ ਪ੍ਰਕਾਰ"</string>
+     <string name="preference_share_title">ਸਾਂਝਾ ਕਰੋ</string>
+     <string name="preference_share_summary">"ਮੌਜੂਦਾ ਚੌੜਾਈ ਅਤੇ ਦਿਸ਼ਾਸੂਚਕ ਮੁੱਲ ਸਾਂਝੇ ਕਰੋ"</string>
+     <string name="custom_background_summary">"ਕਸਟਮ ਪਿਛੋੜ ਚਿੱਤਰ"</string>
+     <string name="set_background_ok">"ਵਾਲਪੇਪਰ ਬਦਲੀ ਸਫਲ ਹੋਈ।"</string>
+     <string name="earth">"ਧਰਤੀ"</string>
+     <string name="kraft">"ਕ੍ਰਾਫਟ ਪੇਪਰ"</string>
+     <string name="grain">"ਲੱਕੜ"</string>
+     <string name="fashion">"ਫੈਸ਼ਨ"</string>
+     <string name="sinan">"ਦਿਸ਼ਾਸੂਚਕ"</string>
+     <string name="restore_ancient">"ਰੈਟਰੋ"</string>
+     <string name="share_compass">ਸਾਂਝਾ ਕਰੋ</string>
+     <string name="toast_compass_internal_error">"ਦਿਸ਼ਾਸੂਚਕ ਵਿੱਚ ਇੱਕ ਅੰਦਰੂਨੀ ਤਰੁੱਟੀ ਵਾਪਰੀ।"</string>
+     <string name="error_permissions">"ਐਪ ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੁੜੀਂਦੀਆਂ ਲਾਜ਼ਮੀ ਅਨੁਮਤੀਆਂ ਨਹੀਂ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀਆਂ ਅਨੁਮਤੀ ਸੈਟਿੰਗਾਂ ਦੀ ਜਾਂਚ ਕਰੋ।"</string>
+     <string name="dialog_dismiss">ਖਰਿਜ ਕਰੋ</string>
+     <string name="failed_option">"ਚੋਣ ਅਸਫਲ"</string>
+     <string name="set_background_invalid_in_guestmode">"ਮਾਲਕ ਮੋਡ ਦੇ ਬਿਨਾਂ ਕਸਟਮ ਪਿਛੋਕੜ ਚਿੱਤਰ ਸੈਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ!"</string>
+
+</resources>

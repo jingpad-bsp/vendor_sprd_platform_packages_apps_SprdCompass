@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Compás"</string>
+     <string name="action_settings">Axustes</string>
+     <string name="compass_activity_title">"Compás e altimetro"</string>
+     <string name="getting_location">"Obtendo localización..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"altitude"</string>
+     <string name="message_no_orientation_sensor">"Sen sensor de dirección"</string>
+     <string name="message_location_fail">"Non capaz de obter unha información de localización"</string>
+     <string name="altitude_unit">"metro"</string>
+     <string name="preference_background_title">"Imaxe de fondo"</string>
+     <string name="preference_pointer_type_title">"Tipo de compás"</string>
+     <string name="preference_share_title">Compartir</string>
+     <string name="preference_share_summary">"Compartir a latitude actual e os valores de compás"</string>
+     <string name="custom_background_summary">"Personalizar a imaxe de fondo"</string>
+     <string name="set_background_ok">"Muro cambiado con éxito."</string>
+     <string name="earth">"Terra"</string>
+     <string name="kraft">"Papel de embalaxe"</string>
+     <string name="grain">"Madeira"</string>
+     <string name="fashion">"Moda"</string>
+     <string name="sinan">"Compás"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">Compartir</string>
+     <string name="toast_compass_internal_error">"¡Un erro interno ocorrido no compás!"</string>
+     <string name="error_permissions">"A aplicación non ten permisos esenciais que se necesitan para a súa execución. Comproba a configuración dos permisos."</string>
+     <string name="dialog_dismiss">Descartar</string>
+     <string name="failed_option">Opción errada</string>
+     <string name="set_background_invalid_in_guestmode">"¡Non pode axustar ó fondo de imaxe personalizado fóra do modo do propietario!"</string>
+
+</resources>

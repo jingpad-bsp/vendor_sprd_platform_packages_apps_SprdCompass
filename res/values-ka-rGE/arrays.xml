@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"დედამიწა"</item>
+<item>"კრაფტ ქაღალდი"</item>
+<item>"ტყე"</item>
+<item>"ინდივიდუალური ფონური გამოსახულება"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"მოდა"</item>
+<item>"კომპასი"</item>
+<item>"რეტრო"</item>
+</string-array>
+</resources>

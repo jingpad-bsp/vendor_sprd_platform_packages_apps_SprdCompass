@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+    <string name="app_name">"Kompas"</string>
+     <string name="action_settings">"Postavke"</string>
+     <string name="compass_activity_title">"Kompas i visinometar"</string>
+     <string name="getting_location">"Dobijanje lokacije..."</string>
+     <string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"nadmorska visina"</string>
+     <string name="message_no_orientation_sensor">"Nema senzora za pravac"</string>
+     <string name="message_location_fail">"Nije moguće dobiti informacije o lokaciji"</string>
+     <string name="altitude_unit">"metar"</string>
+     <string name="preference_background_title">"Pozadinska slika"</string>
+     <string name="preference_pointer_type_title">"Vrsta kompasa"</string>
+     <string name="preference_share_title">"Dijeli"</string>
+     <string name="preference_share_summary">"Dijeliti trenutne vrijednosti širine i kompasa"</string>
+     <string name="custom_background_summary">"Podesiti pozadinsku sliku"</string>
+     <string name="set_background_ok">"Zamjena pozadine je uspjela."</string>
+     <string name="earth">"Zemlja"</string>
+     <string name="kraft">"Kraft papir"</string>
+     <string name="grain">"Drvo"</string>
+     <string name="fashion">"Moda"</string>
+     <string name="sinan">"Kompas"</string>
+     <string name="restore_ancient">"Retro"</string>
+     <string name="share_compass">"Dijeli"</string>
+     <string name="toast_compass_internal_error">"Desila se unutarnja pogreška u aplikaciji Kompas."</string>
+     <string name="error_permissions">"Aplikacija nema važna dopuštenja potrebna za pokretanje. Provjerite svoje postavke dopuštenja."</string>
+     <string name="dialog_dismiss">"Odbaci"</string>
+     <string name="failed_option">"Opcija nije uspjela"</string>
+     <string name="set_background_invalid_in_guestmode">"Nije moguće podesiti pozadinsku sliku bez načina rada Vlasnik!"</string>
+
+</resources>

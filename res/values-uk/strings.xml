@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"П"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">e</string>
+<string name="direction_west">"Р"</string>
+    <string name="app_name">"Компас"</string>
+     <string name="action_settings">"Налаштування"</string>
+     <string name="compass_activity_title">"Компас і Висотомір"</string>
+     <string name="getting_location">"Отримання даних про місцезнаходження ..."</string>
+     <string name="location_north">"Північ <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"Південь <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"Схід <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"Захід <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"висота"</string>
+     <string name="message_no_orientation_sensor">"Датчик напрямку відсутній"</string>
+     <string name="message_location_fail">"Отримати інформацію про місцезнаходження не вдалося"</string>
+     <string name="altitude_unit">"метр"</string>
+     <string name="preference_background_title">"Фонове зображення"</string>
+     <string name="preference_pointer_type_title">"Тип Компас"</string>
+     <string name="preference_share_title">"Надісл."</string>
+     <string name="preference_share_summary">"Загальний доступ до поточних значень широти й показників компаса"</string>
+     <string name="custom_background_summary">"Фонове зображення користувача"</string>
+     <string name="set_background_ok">"Заміну фонового зображення виконано успішно."</string>
+     <string name="earth">"Земля"</string>
+     <string name="kraft">"Крафт-папір"</string>
+     <string name="grain">"Дерево"</string>
+     <string name="fashion">"Стиль"</string>
+     <string name="sinan">"Компас"</string>
+     <string name="restore_ancient">"Ретро"</string>
+     <string name="share_compass">"Надісл."</string>
+     <string name="toast_compass_internal_error">"У програмі Компас сталася внутрішня помилка."</string>
+     <string name="error_permissions">"Додаток не має обов’язкових дозволів, потрібних для роботи. Перегляньте налаштування дозволів."</string>
+     <string name="dialog_dismiss">"Відхилити"</string>
+     <string name="failed_option">"Не вдалося виконати"</string>
+     <string name="set_background_invalid_in_guestmode">"Можливість встановлення фонового зображення користувачем доступна тільки в режимі основного користувача телефону!"</string>
+
+</resources>

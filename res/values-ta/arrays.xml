@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"பூமி"</item>
+<item>"கிராஃப்ட் பேப்பர்"</item>
+<item>"மரம்"</item>
+<item>"விருப்பமான பின்புல படம்"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"ஃபேஷன்"</item>
+<item>"திசைகாட்டி"</item>
+<item>"ரெட்ரோ"</item>
+</string-array>
+</resources>

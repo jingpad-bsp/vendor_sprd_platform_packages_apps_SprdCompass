@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"Žemė"</item>
+<item>"Kraft popierius"</item>
+<item>"Medis"</item>
+<item>"Kitas fono paveiksliukas"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"Mada"</item>
+<item>"Kompasas"</item>
+<item>"Retro"</item>
+</string-array>
+</resources>

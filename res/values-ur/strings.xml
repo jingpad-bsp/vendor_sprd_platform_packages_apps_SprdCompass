@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"کمپاس"</string>
+<string name="action_settings">"ترتیبات"</string>
+<string name="compass_activity_title">"کمپاس اور الٹی میٹر"</string>
+<string name="getting_location">"مقام حاصل کر رہا ہے ..."</string>
+<string name="location_north">"NL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_south">"SL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_east">"EL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="location_west">"WL <xliff:g id="location">%1$s</xliff:g>"</string>
+<string name="altitude_text">"اونچائی"</string>
+<string name="message_no_orientation_sensor">"کوئی سمت کا سینسر نہیں"</string>
+<string name="message_location_fail">"مقام کی معلومات حاصل کرنے قابل نہیں"</string>
+<string name="altitude_unit">"میٹر"</string>
+<string name="direction_north">"N"</string>
+<string name="direction_south">"s"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">"W"</string>
+<string name="preference_background_title">"پس منظر کی تصویر"</string>
+<string name="preference_pointer_type_title">"کمپاس کی قسم"</string>
+<string name="preference_share_title">"اشتراک کریں"</string>
+<string name="preference_share_summary">"موجودہ عرض بلد اور کمپاس قدروں کا اشتراک کریں"</string>
+<string name="custom_background_summary">"اپنی مرضی کی پس منظر شبیہ"</string>
+<string name="set_background_ok">"وال پیپر کی تبدیلی کامیاب ہوئی"</string>
+<string name="earth">"زمین"</string>
+<string name="kraft">"خاکی کاغذ"</string>
+<string name="grain">"لکڑی"</string>
+<string name="fashion">"فیشن"</string>
+<string name="sinan">"کمپاس"</string>
+<string name="restore_ancient">"ریٹرو"</string>
+<string name="share_compass">"اشتراک کریں"</string>
+<string name="toast_compass_internal_error">"کمپاس میں ایک اندرونی نقص پیش آیا۔"</string>
+<string name="error_permissions">" ایپ کو چلانے کے لئے ضروری اہم اجازت نہیں ہے۔ براہ کرم اپن سیٹنگس کی اجازتوں کی جانچ کریں\'َ"</string>
+<string name="dialog_dismiss">"ہٹائیں"</string>
+<string name="failed_option">آپشن ناکام</string>
+<string name="set_background_invalid_in_guestmode">" آونر موڈ کے بغیر کسٹم بیک گراؤنڈ تصویر سیٹ نہیں کرسکتے!"</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="background_entries">
+<item>"Ziemia"</item>
+<item>"Papier kraft"</item>
+<item>"Drewno"</item>
+<item>"Własny obraz tła"</item>
+</string-array>
+<string-array name="pointer_type_entries">
+<item>"Moda"</item>
+<item>"Kompas"</item>
+<item>"Retro"</item>
+</string-array>
+</resources>

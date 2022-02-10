@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="direction_north">"N"</string>
+<string name="direction_south">"S"</string>
+<string name="direction_east">"E"</string>
+<string name="direction_west">W</string>
+    <string name="app_name">"ኮምፓስ"</string>
+     <string name="action_settings">"ቅንብሮች"</string>
+     <string name="compass_activity_title">"ኮምፓስና አልቲሜትር"</string>
+     <string name="getting_location">"ቦታውን ማምጣት..."</string>
+     <string name="location_north">"ኤንኤል <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_south">"ኤስኤል <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_east">"ኢኤል <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="location_west">"ደብሊውኤል <xliff:g id="location">%1$s</xliff:g>"</string>
+     <string name="altitude_text">"ከፍታ"</string>
+     <string name="message_no_orientation_sensor">"የአቅጣጫ ማነፍነፊያ የለም"</string>
+     <string name="message_location_fail">"የቦታ መረጃ ማመልከት አልተቻለም"</string>
+     <string name="altitude_unit">"ሜትር"</string>
+     <string name="preference_background_title">"የመደብ ስእል"</string>
+     <string name="preference_pointer_type_title">"የኮምፓስ አይነት"</string>
+     <string name="preference_share_title">"አጋራ"</string>
+     <string name="preference_share_summary">"የአሁኑን ከፍታና የኮምፓስ ዋጋዎች ማጋራት"</string>
+     <string name="custom_background_summary">"የተሻሻለ የመደብ ስእል"</string>
+     <string name="set_background_ok">"የግድግዳ ስእል መቀየሩ ተሳክትዋል፡፡"</string>
+     <string name="earth">"መሬት"</string>
+     <string name="kraft">"ማሸጊያ ወረቀት"</string>
+     <string name="grain">"እንጨት"</string>
+     <string name="fashion">"ፋሽን"</string>
+     <string name="sinan">"ኮምፓስ"</string>
+     <string name="restore_ancient">"ማመላከት"</string>
+     <string name="share_compass">"አጋራ"</string>
+     <string name="toast_compass_internal_error">"የውስጥ ስህተት በኮምፓሱ ላይ ደርስዋል፡፡"</string>
+     <string name="error_permissions">"መተግበሪያው ለመስራት የሚያስፈልጉት ወሳኝ ፍቃዶች የሉትም። እባክዎ የእርስዎን የፍቃዶች ቅንብሮች ይፈትሹ።"</string>
+     <string name="dialog_dismiss">"አሰናብት"</string>
+     <string name="failed_option">"አማራጭ አልተሳካም"</string>
+     <string name="set_background_invalid_in_guestmode">"ያለ ባለቤቱ ዘዴ የመደብ ስእልን ማሻሸሻል አይቻልም!"</string>
+
+</resources>
